@@ -1,0 +1,501 @@
+order_id,customer_name,age,country,city,category,product_price,quantity,discount_percent,payment_method,order_status,order_date,rating,total_amount,final_revenue,discount_amount,order_month,order_year,order_quarter,age_group,is_high_value,revenue_rank,category_upper,order_number
+ORD0001,Customer_1,56,India,Sydney,Books,2655.52,5,20.0,Cash,Delivered,2023-01-01,5,10622.08,10622.08,2655.52,January,2023,1,46-65,False,37,BOOKS,1
+ORD0002,Customer_2,46,UK,London,Toys,6601.69,8,10.0,Net Banking,Cancelled,2023-01-01,4,47532.17,47532.17,5281.35,January,2023,1,46-65,True,11,TOYS,2
+ORD0003,Customer_3,32,France,Toronto,Sports,3319.38,8,10.0,UPI,Delivered,2023-01-02,4,23899.54,23899.54,2655.5,January,2023,1,26-35,True,28,SPORTS,3
+ORD0004,Customer_4,60,UK,London,Books,7757.38,1,0.0,UPI,Delivered,2023-01-02,3,7757.38,7757.38,0.0,January,2023,1,46-65,False,48,BOOKS,4
+ORD0005,Customer_5,25,India,Tokyo,Sports,1395.65,5,20.0,Net Banking,Delivered,2023-01-03,4,5582.6,5582.6,1395.65,January,2023,1,18-25,False,55,SPORTS,5
+ORD0006,Customer_6,38,India,Dubai,Sports,9701.23,3,10.0,Cash,Cancelled,2023-01-03,4,26193.32,26193.32,2910.37,January,2023,1,36-45,True,25,SPORTS,6
+ORD0007,Customer_7,56,Japan,Berlin,Electronics,4592.52,1,25.0,Debit Card,Delivered,2023-01-04,4,3444.39,3444.39,1148.13,January,2023,1,46-65,False,51,ELECTRONICS,7
+ORD0008,Customer_8,36,UAE,Mumbai,Clothing,2436.9,4,10.0,Credit Card,Delivered,2023-01-04,3,8772.84,8772.84,974.76,January,2023,1,36-45,False,45,CLOTHING,8
+ORD0009,Customer_9,40,USA,Berlin,Toys,827.62,8,10.0,Cash,Delivered,2023-01-05,2,5958.86,5958.86,662.1,January,2023,1,36-45,False,54,TOYS,9
+ORD0010,Customer_10,28,UK,Toronto,Sports,1780.6,3,20.0,Net Banking,Delivered,2023-01-05,3,4273.44,4273.44,1068.36,January,2023,1,26-35,False,59,SPORTS,10
+ORD0011,Customer_11,28,USA,Berlin,Toys,5245.76,2,25.0,Credit Card,Pending,2023-01-06,4,7868.64,7868.64,2622.88,January,2023,1,26-35,False,45,TOYS,11
+ORD0012,Customer_12,41,UK,Sydney,Beauty,3436.33,9,20.0,UPI,Delivered,2023-01-06,5,24741.58,24741.58,6185.39,January,2023,1,36-45,True,25,BEAUTY,12
+ORD0013,Customer_13,53,Canada,São Paulo,Sports,8305.95,5,0.0,Debit Card,Delivered,2023-01-07,2,41529.75,41529.75,0.0,January,2023,1,46-65,True,7,SPORTS,13
+ORD0014,Customer_14,57,India,Mumbai,Food,4365.79,7,15.0,UPI,Delivered,2023-01-07,3,25976.45,25976.45,4584.08,January,2023,1,46-65,True,22,FOOD,14
+ORD0015,Customer_15,41,UAE,Paris,Clothing,2562.27,2,10.0,Net Banking,Pending,2023-01-08,5,4612.09,4612.09,512.45,January,2023,1,36-45,False,55,CLOTHING,15
+ORD0016,Customer_16,20,Japan,Toronto,Food,6209.74,9,15.0,Credit Card,Delivered,2023-01-08,3,47504.51,47504.51,8383.15,January,2023,1,18-25,True,8,FOOD,16
+ORD0017,Customer_17,39,UAE,Mumbai,Toys,7097.09,9,20.0,Net Banking,Delivered,2023-01-09,4,51099.05,51099.05,12774.76,January,2023,1,36-45,True,8,TOYS,17
+ORD0018,Customer_18,19,UAE,Berlin,Toys,1753.71,4,20.0,Credit Card,Cancelled,2023-01-09,5,5611.87,5611.87,1402.97,January,2023,1,18-25,False,56,TOYS,18
+ORD0019,Customer_19,41,UAE,Sydney,Clothing,1759.43,4,20.0,Cash,Cancelled,2023-01-10,3,5630.18,5630.18,1407.54,January,2023,1,36-45,False,51,CLOTHING,19
+ORD0020,Customer_20,61,USA,New York,Toys,463.05,6,15.0,Debit Card,Delivered,2023-01-10,2,2361.56,2361.56,416.74,January,2023,1,46-65,False,59,TOYS,20
+ORD0021,Customer_21,47,UK,Dubai,Food,7390.38,6,20.0,Cash,Delivered,2023-01-11,4,35473.82,35473.82,8868.46,January,2023,1,46-65,True,16,FOOD,21
+ORD0022,Customer_22,55,Brazil,Paris,Sports,6671.66,1,0.0,Cash,Delivered,2023-01-11,4,6671.66,6671.66,0.0,January,2023,1,46-65,False,52,SPORTS,22
+ORD0023,Customer_23,19,Canada,Dubai,Sports,4798.85,9,20.0,Net Banking,Delivered,2023-01-12,4,34551.72,34551.72,8637.93,January,2023,1,18-25,True,13,SPORTS,23
+ORD0024,Customer_24,38,Germany,Mumbai,Electronics,8457.29,2,5.0,Debit Card,Delivered,2023-01-12,5,16068.85,16068.85,845.73,January,2023,1,36-45,False,29,ELECTRONICS,24
+ORD0025,Customer_25,42,UAE,Sydney,Beauty,8076.13,5,15.0,Credit Card,Delivered,2023-01-13,3,34323.55,34323.55,6057.1,January,2023,1,36-45,True,15,BEAUTY,25
+ORD0026,Customer_26,29,France,Sydney,Toys,5895.01,9,5.0,Credit Card,Delivered,2023-01-13,4,50402.34,50402.34,2652.75,January,2023,1,26-35,True,9,TOYS,26
+ORD0027,Customer_27,39,USA,Berlin,Food,8695.89,4,20.0,UPI,Delivered,2023-01-14,4,27826.85,27826.85,6956.71,January,2023,1,36-45,True,20,FOOD,27
+ORD0028,Customer_28,61,Japan,Tokyo,Toys,2137.83,3,0.0,Credit Card,Cancelled,2023-01-14,3,6413.49,6413.49,0.0,January,2023,1,46-65,False,51,TOYS,28
+ORD0029,Customer_29,42,Germany,Berlin,Toys,1208.0,7,10.0,Net Banking,Pending,2023-01-15,4,7610.4,7610.4,845.6,January,2023,1,36-45,False,46,TOYS,29
+ORD0030,Customer_30,44,Brazil,Tokyo,Books,2770.52,6,25.0,Cash,Delivered,2023-01-15,3,12467.34,12467.34,4155.78,January,2023,1,36-45,False,36,BOOKS,30
+ORD0031,Customer_31,59,France,Tokyo,Electronics,665.16,8,25.0,Cash,Delivered,2023-01-16,4,3990.96,3990.96,1330.32,January,2023,1,46-65,False,49,ELECTRONICS,31
+ORD0032,Customer_32,45,Brazil,Paris,Food,5358.58,3,20.0,Cash,Delivered,2023-01-16,2,12860.59,12860.59,3215.15,January,2023,1,36-45,False,29,FOOD,32
+ORD0033,Customer_33,33,Germany,Berlin,Food,9372.4,5,0.0,Debit Card,Pending,2023-01-17,4,46862.0,46862.0,0.0,January,2023,1,26-35,True,9,FOOD,33
+ORD0034,Customer_34,32,UAE,New York,Toys,489.5,4,15.0,Credit Card,Delivered,2023-01-17,4,1664.3,1664.3,293.7,January,2023,1,26-35,False,61,TOYS,34
+ORD0035,Customer_35,64,France,London,Electronics,1308.89,4,5.0,Net Banking,Delivered,2023-01-18,5,4973.78,4973.78,261.78,January,2023,1,46-65,False,48,ELECTRONICS,35
+ORD0036,Customer_36,61,Brazil,London,Sports,4576.77,4,5.0,Debit Card,Delivered,2023-01-18,2,17391.73,17391.73,915.35,January,2023,1,46-65,False,41,SPORTS,36
+ORD0037,Customer_37,20,Japan,Berlin,Food,9345.36,8,5.0,UPI,Delivered,2023-01-19,4,71024.74,71024.74,3738.14,January,2023,1,18-25,True,2,FOOD,37
+ORD0038,Customer_38,54,UK,Berlin,Sports,3229.95,6,15.0,Net Banking,Delivered,2023-01-19,4,16472.74,16472.74,2906.95,January,2023,1,46-65,False,43,SPORTS,38
+ORD0039,Customer_39,24,India,Dubai,Electronics,5121.62,3,25.0,Net Banking,Delivered,2023-01-20,5,11523.64,11523.64,3841.22,January,2023,1,18-25,False,35,ELECTRONICS,39
+ORD0040,Customer_40,42,UK,Paris,Sports,511.57,5,0.0,Net Banking,Delivered,2023-01-20,4,2557.85,2557.85,0.0,January,2023,1,36-45,False,61,SPORTS,40
+ORD0041,Customer_41,26,Germany,Berlin,Clothing,1568.6,6,15.0,Cash,Pending,2023-01-21,5,7999.86,7999.86,1411.74,January,2023,1,26-35,False,47,CLOTHING,41
+ORD0042,Customer_42,56,USA,Dubai,Books,9867.64,5,5.0,Net Banking,Delivered,2023-01-21,5,46871.29,46871.29,2466.91,January,2023,1,46-65,True,7,BOOKS,42
+ORD0043,Customer_43,35,India,Tokyo,Home,9654.68,6,20.0,Credit Card,Cancelled,2023-01-22,5,46342.46,46342.46,11585.62,January,2023,1,26-35,True,10,HOME,43
+ORD0044,Customer_44,21,Canada,Sydney,Food,148.91,8,10.0,Net Banking,Cancelled,2023-01-22,4,1072.15,1072.15,119.13,January,2023,1,18-25,False,58,FOOD,44
+ORD0045,Customer_45,42,Japan,Sydney,Beauty,9522.94,7,0.0,Cash,Delivered,2023-01-23,4,66660.58,66660.58,0.0,January,2023,1,36-45,True,3,BEAUTY,45
+ORD0046,Customer_46,31,Canada,Tokyo,Books,6427.29,5,15.0,Net Banking,Delivered,2023-01-23,5,27315.98,27315.98,4820.47,January,2023,1,26-35,True,17,BOOKS,46
+ORD0047,Customer_47,26,France,Toronto,Home,8692.39,6,0.0,UPI,Delivered,2023-01-24,4,52154.34,52154.34,0.0,January,2023,1,26-35,True,7,HOME,47
+ORD0048,Customer_48,43,India,Dubai,Sports,4601.92,4,0.0,UPI,Delivered,2023-01-24,5,18407.68,18407.68,0.0,January,2023,1,36-45,False,40,SPORTS,48
+ORD0049,Customer_49,19,Canada,Dubai,Food,5204.4,9,15.0,Cash,Returned,2023-01-25,4,39813.66,39813.66,7025.94,January,2023,1,18-25,True,13,FOOD,49
+ORD0050,Customer_50,37,Canada,Tokyo,Sports,4939.58,4,5.0,Credit Card,Pending,2023-01-25,3,18770.4,18770.4,987.92,January,2023,1,36-45,True,34,SPORTS,50
+ORD0051,Customer_51,45,Brazil,New York,Clothing,6701.96,1,10.0,Credit Card,Delivered,2023-01-26,4,6031.76,6031.76,670.2,January,2023,1,36-45,False,50,CLOTHING,51
+ORD0052,Customer_52,64,UK,São Paulo,Electronics,1482.55,7,0.0,Debit Card,Delivered,2023-01-26,5,10377.85,10377.85,0.0,January,2023,1,46-65,False,38,ELECTRONICS,52
+ORD0053,Customer_53,24,Brazil,Mumbai,Food,396.74,7,5.0,Cash,Pending,2023-01-27,4,2638.32,2638.32,138.86,January,2023,1,18-25,False,54,FOOD,53
+ORD0054,Customer_54,61,India,Tokyo,Home,3148.51,4,20.0,Net Banking,Cancelled,2023-01-27,4,10075.23,10075.23,2518.81,January,2023,1,46-65,False,44,HOME,54
+ORD0055,Customer_55,25,India,Berlin,Home,7076.34,3,0.0,Cash,Returned,2023-01-28,5,21229.02,21229.02,0.0,January,2023,1,18-25,True,33,HOME,55
+ORD0056,Customer_56,64,Germany,Berlin,Clothing,2098.35,8,5.0,Debit Card,Delivered,2023-01-28,4,15947.46,15947.46,839.34,January,2023,1,46-65,False,35,CLOTHING,56
+ORD0057,Customer_57,52,Brazil,Paris,Clothing,6766.98,5,5.0,Cash,Delivered,2023-01-29,5,32143.15,32143.15,1691.74,January,2023,1,46-65,True,20,CLOTHING,57
+ORD0058,Customer_58,31,Australia,Tokyo,Toys,9702.13,7,10.0,Cash,Cancelled,2023-01-29,4,61123.42,61123.42,6791.49,January,2023,1,26-35,True,1,TOYS,58
+ORD0059,Customer_59,34,UK,Paris,Food,1029.62,4,10.0,Debit Card,Cancelled,2023-01-30,4,3706.63,3706.63,411.85,January,2023,1,26-35,False,52,FOOD,59
+ORD0060,Customer_60,53,India,Tokyo,Sports,6758.76,4,20.0,Credit Card,Delivered,2023-01-30,4,21628.03,21628.03,5407.01,January,2023,1,46-65,True,29,SPORTS,60
+ORD0061,Customer_61,57,Germany,Dubai,Beauty,4493.13,8,5.0,Net Banking,Delivered,2023-01-31,5,34147.79,34147.79,1797.25,January,2023,1,46-65,True,16,BEAUTY,61
+ORD0062,Customer_62,21,Brazil,Mumbai,Home,8694.61,8,25.0,Debit Card,Delivered,2023-01-31,2,52167.66,52167.66,17389.22,January,2023,1,18-25,True,6,HOME,62
+ORD0063,Customer_63,19,UK,Dubai,Home,1853.78,2,5.0,UPI,Delivered,2023-02-01,3,3522.18,3522.18,185.38,February,2023,1,18-25,False,56,HOME,63
+ORD0064,Customer_64,23,Brazil,São Paulo,Clothing,6957.0,2,10.0,Credit Card,Delivered,2023-02-01,4,12522.6,12522.6,1391.4,February,2023,1,18-25,False,40,CLOTHING,64
+ORD0065,Customer_65,59,Canada,Sydney,Books,8397.34,3,25.0,UPI,Pending,2023-02-02,3,18894.02,18894.02,6298.0,February,2023,1,46-65,True,30,BOOKS,65
+ORD0066,Customer_66,21,Germany,London,Clothing,9451.68,3,0.0,Credit Card,Delivered,2023-02-02,4,28355.04,28355.04,0.0,February,2023,1,18-25,True,23,CLOTHING,66
+ORD0067,Customer_67,46,UK,Tokyo,Beauty,6864.16,1,0.0,Net Banking,Returned,2023-02-03,4,6864.16,6864.16,0.0,February,2023,1,46-65,False,49,BEAUTY,67
+ORD0068,Customer_68,35,UAE,São Paulo,Sports,5022.03,3,15.0,Net Banking,Delivered,2023-02-03,4,12806.18,12806.18,2259.91,February,2023,1,26-35,False,48,SPORTS,68
+ORD0069,Customer_69,43,France,Sydney,Sports,6216.69,6,0.0,Cash,Cancelled,2023-02-04,5,37300.14,37300.14,0.0,February,2023,1,36-45,True,12,SPORTS,69
+ORD0070,Customer_70,61,France,Toronto,Books,8702.16,8,15.0,UPI,Pending,2023-02-04,3,59174.69,59174.69,10442.59,February,2023,1,46-65,True,4,BOOKS,70
+ORD0071,Customer_71,51,UK,Mumbai,Home,5749.04,6,25.0,Credit Card,Delivered,2023-02-05,4,25870.68,25870.68,8623.56,February,2023,1,46-65,True,27,HOME,71
+ORD0072,Customer_72,27,Brazil,Paris,Clothing,400.83,5,10.0,Net Banking,Delivered,2023-02-05,4,1803.74,1803.74,200.42,February,2023,1,26-35,False,60,CLOTHING,72
+ORD0073,Customer_73,53,Germany,Paris,Toys,9316.39,4,20.0,Debit Card,Delivered,2023-02-06,5,29812.45,29812.45,7453.11,February,2023,1,46-65,True,20,TOYS,73
+ORD0074,Customer_74,31,France,Dubai,Sports,6926.31,3,5.0,Net Banking,Delivered,2023-02-06,3,19739.98,19739.98,1038.95,February,2023,1,26-35,True,33,SPORTS,74
+ORD0075,Customer_75,48,Germany,Berlin,Beauty,6797.48,4,20.0,Debit Card,Cancelled,2023-02-07,4,21751.94,21751.94,5437.98,February,2023,1,46-65,True,30,BEAUTY,75
+ORD0076,Customer_76,32,France,Sydney,Food,2235.18,7,25.0,Credit Card,Returned,2023-02-07,3,11734.7,11734.7,3911.56,February,2023,1,26-35,False,34,FOOD,76
+ORD0077,Customer_77,25,Canada,Toronto,Electronics,6622.97,1,10.0,Net Banking,Delivered,2023-02-08,3,5960.67,5960.67,662.3,February,2023,1,18-25,False,46,ELECTRONICS,77
+ORD0078,Customer_78,31,Brazil,São Paulo,Electronics,3999.26,7,25.0,Net Banking,Delivered,2023-02-08,3,20996.12,20996.12,6998.7,February,2023,1,26-35,True,25,ELECTRONICS,78
+ORD0079,Customer_79,40,Canada,Mumbai,Electronics,6547.21,1,5.0,Credit Card,Delivered,2023-02-09,3,6219.85,6219.85,327.36,February,2023,1,36-45,False,45,ELECTRONICS,79
+ORD0080,Customer_80,57,France,Sydney,Toys,1155.27,2,0.0,Net Banking,Cancelled,2023-02-09,5,2310.54,2310.54,0.0,February,2023,1,46-65,False,60,TOYS,80
+ORD0081,Customer_81,38,UAE,Toronto,Home,6612.67,4,0.0,Debit Card,Delivered,2023-02-10,4,26450.68,26450.68,0.0,February,2023,1,36-45,True,26,HOME,81
+ORD0082,Customer_82,33,UAE,London,Clothing,9994.2,1,25.0,Net Banking,Delivered,2023-02-10,5,7495.65,7495.65,2498.55,February,2023,1,26-35,False,48,CLOTHING,82
+ORD0083,Customer_83,62,Canada,Tokyo,Books,577.3,9,15.0,UPI,Delivered,2023-02-11,4,4416.34,4416.34,779.36,February,2023,1,46-65,False,60,BOOKS,83
+ORD0084,Customer_84,35,UAE,Paris,Toys,9774.02,6,10.0,Cash,Delivered,2023-02-11,4,52779.71,52779.71,5864.41,February,2023,1,26-35,True,6,TOYS,84
+ORD0085,Customer_85,64,France,São Paulo,Toys,4128.39,1,10.0,Debit Card,Delivered,2023-02-12,3,3715.55,3715.55,412.84,February,2023,1,46-65,False,58,TOYS,85
+ORD0086,Customer_86,41,UK,Paris,Sports,8720.46,1,0.0,UPI,Cancelled,2023-02-12,4,8720.46,8720.46,0.0,February,2023,1,36-45,False,51,SPORTS,86
+ORD0087,Customer_87,43,Canada,São Paulo,Food,7845.62,6,20.0,Credit Card,Delivered,2023-02-13,5,37658.98,37658.98,9414.74,February,2023,1,36-45,True,15,FOOD,87
+ORD0088,Customer_88,42,USA,Dubai,Toys,5713.46,4,5.0,Debit Card,Delivered,2023-02-13,4,21711.15,21711.15,1142.69,February,2023,1,36-45,True,31,TOYS,88
+ORD0089,Customer_89,62,Brazil,Berlin,Beauty,7410.65,4,20.0,Cash,Returned,2023-02-14,2,23714.08,23714.08,5928.52,February,2023,1,46-65,True,27,BEAUTY,89
+ORD0090,Customer_90,58,UAE,São Paulo,Food,8797.3,6,20.0,Cash,Cancelled,2023-02-14,4,42227.04,42227.04,10556.76,February,2023,1,46-65,True,12,FOOD,90
+ORD0091,Customer_91,46,UAE,Paris,Beauty,4100.99,7,25.0,Credit Card,Delivered,2023-02-15,5,21530.2,21530.2,7176.73,February,2023,1,46-65,True,32,BEAUTY,91
+ORD0092,Customer_92,32,India,Dubai,Home,3337.63,9,0.0,Credit Card,Delivered,2023-02-15,5,30038.67,30038.67,0.0,February,2023,1,26-35,True,24,HOME,92
+ORD0093,Customer_93,62,Australia,São Paulo,Clothing,6709.17,5,0.0,Debit Card,Delivered,2023-02-16,3,33545.85,33545.85,0.0,February,2023,1,46-65,True,17,CLOTHING,93
+ORD0094,Customer_94,18,Canada,London,Electronics,8097.67,9,0.0,Net Banking,Delivered,2023-02-16,5,72879.03,72879.03,0.0,February,2023,1,18-25,True,3,ELECTRONICS,94
+ORD0095,Customer_95,42,Japan,Berlin,Toys,7646.62,4,25.0,Credit Card,Delivered,2023-02-17,3,22939.86,22939.86,7646.62,February,2023,1,36-45,True,29,TOYS,95
+ORD0096,Customer_96,24,UAE,São Paulo,Clothing,7998.36,2,15.0,Net Banking,Delivered,2023-02-17,3,13597.21,13597.21,2399.51,February,2023,1,18-25,False,38,CLOTHING,96
+ORD0097,Customer_97,26,Brazil,Dubai,Home,4412.27,3,20.0,UPI,Delivered,2023-02-18,5,10589.45,10589.45,2647.36,February,2023,1,26-35,False,42,HOME,97
+ORD0098,Customer_98,41,USA,Sydney,Books,8196.56,1,25.0,Cash,Cancelled,2023-02-18,3,6147.42,6147.42,2049.14,February,2023,1,36-45,False,56,BOOKS,98
+ORD0099,Customer_99,18,UAE,New York,Books,1290.07,6,10.0,Net Banking,Delivered,2023-02-19,3,6966.38,6966.38,774.04,February,2023,1,18-25,False,52,BOOKS,99
+ORD0100,Customer_100,61,USA,Toronto,Home,5490.44,6,5.0,Cash,Cancelled,2023-02-19,1,31295.51,31295.51,1647.13,February,2023,1,46-65,True,21,HOME,100
+ORD0101,Customer_101,25,France,New York,Beauty,157.01,1,15.0,Net Banking,Delivered,2023-02-20,5,133.46,133.46,23.55,February,2023,1,18-25,False,66,BEAUTY,101
+ORD0102,Customer_102,41,France,New York,Sports,3313.4,3,10.0,UPI,Pending,2023-02-20,5,8946.18,8946.18,994.02,February,2023,1,36-45,False,50,SPORTS,102
+ORD0103,Customer_103,28,Australia,Mumbai,Sports,3727.97,5,20.0,Credit Card,Returned,2023-02-21,4,14911.88,14911.88,3727.97,February,2023,1,26-35,False,45,SPORTS,103
+ORD0104,Customer_104,34,UK,London,Beauty,4022.11,3,0.0,UPI,Returned,2023-02-21,5,12066.33,12066.33,0.0,February,2023,1,26-35,False,44,BEAUTY,104
+ORD0105,Customer_105,25,Japan,Sydney,Books,6985.13,3,20.0,Credit Card,Returned,2023-02-22,3,16764.31,16764.31,4191.08,February,2023,1,18-25,False,31,BOOKS,105
+ORD0106,Customer_106,52,India,Tokyo,Books,3946.73,3,25.0,Credit Card,Pending,2023-02-22,4,8880.14,8880.14,2960.05,February,2023,1,46-65,False,43,BOOKS,106
+ORD0107,Customer_107,52,Australia,São Paulo,Toys,4542.07,5,5.0,Cash,Delivered,2023-02-23,4,21574.83,21574.83,1135.52,February,2023,1,46-65,True,32,TOYS,107
+ORD0108,Customer_108,50,Germany,Toronto,Books,2451.69,5,25.0,UPI,Delivered,2023-02-23,2,9193.84,9193.84,3064.61,February,2023,1,46-65,False,41,BOOKS,108
+ORD0109,Customer_109,22,India,Berlin,Clothing,3795.19,4,15.0,Net Banking,Delivered,2023-02-24,4,12903.65,12903.65,2277.11,February,2023,1,18-25,False,39,CLOTHING,109
+ORD0110,Customer_110,59,Canada,Sydney,Books,2349.97,1,15.0,UPI,Cancelled,2023-02-24,5,1997.47,1997.47,352.5,February,2023,1,46-65,False,66,BOOKS,110
+ORD0111,Customer_111,56,Brazil,Paris,Food,824.64,5,5.0,Cash,Cancelled,2023-02-25,1,3917.04,3917.04,206.16,February,2023,1,46-65,False,51,FOOD,111
+ORD0112,Customer_112,58,Germany,Tokyo,Toys,6074.14,5,10.0,Credit Card,Delivered,2023-02-25,4,27333.63,27333.63,3037.07,February,2023,1,46-65,True,22,TOYS,112
+ORD0113,Customer_113,45,Germany,Mumbai,Electronics,6715.31,4,10.0,Cash,Delivered,2023-02-26,3,24175.12,24175.12,2686.12,February,2023,1,36-45,True,22,ELECTRONICS,113
+ORD0114,Customer_114,24,Australia,Mumbai,Books,6232.95,6,15.0,Debit Card,Delivered,2023-02-26,3,31788.04,31788.04,5609.66,February,2023,1,18-25,True,13,BOOKS,114
+ORD0115,Customer_115,26,UK,Sydney,Beauty,4688.59,4,15.0,Debit Card,Pending,2023-02-27,5,15941.21,15941.21,2813.15,February,2023,1,26-35,False,38,BEAUTY,115
+ORD0116,Customer_116,25,Australia,Dubai,Electronics,3859.88,7,0.0,Net Banking,Delivered,2023-02-27,4,27019.16,27019.16,0.0,February,2023,1,18-25,True,20,ELECTRONICS,116
+ORD0117,Customer_117,29,Canada,New York,Clothing,8647.0,7,10.0,Cash,Delivered,2023-02-28,4,54476.1,54476.1,6052.9,February,2023,1,26-35,True,6,CLOTHING,117
+ORD0118,Customer_118,51,UAE,Paris,Beauty,5238.91,2,5.0,Net Banking,Delivered,2023-02-28,5,9953.93,9953.93,523.89,February,2023,1,46-65,False,45,BEAUTY,118
+ORD0119,Customer_119,50,UAE,Mumbai,Electronics,4843.9,3,10.0,Net Banking,Delivered,2023-03-01,3,13078.53,13078.53,1453.17,March,2023,1,46-65,False,32,ELECTRONICS,119
+ORD0120,Customer_120,40,UK,Toronto,Beauty,353.86,1,0.0,Debit Card,Returned,2023-03-01,4,353.86,353.86,0.0,March,2023,1,36-45,False,65,BEAUTY,120
+ORD0121,Customer_121,41,Canada,Mumbai,Clothing,3478.35,8,25.0,Net Banking,Cancelled,2023-03-02,4,20870.1,20870.1,6956.7,March,2023,1,36-45,True,30,CLOTHING,121
+ORD0122,Customer_122,54,UK,Berlin,Toys,3863.94,9,15.0,Debit Card,Cancelled,2023-03-02,4,29559.14,29559.14,5216.32,March,2023,1,46-65,True,21,TOYS,122
+ORD0123,Customer_123,52,USA,São Paulo,Food,4048.35,4,15.0,Credit Card,Delivered,2023-03-03,4,13764.39,13764.39,2429.01,March,2023,1,46-65,False,28,FOOD,123
+ORD0124,Customer_124,61,UAE,Mumbai,Clothing,5843.71,6,0.0,Cash,Delivered,2023-03-03,5,35062.26,35062.26,0.0,March,2023,1,46-65,True,16,CLOTHING,124
+ORD0125,Customer_125,57,Germany,Berlin,Clothing,5382.67,9,5.0,Net Banking,Delivered,2023-03-04,4,46021.83,46021.83,2422.2,March,2023,1,46-65,True,12,CLOTHING,125
+ORD0126,Customer_126,39,Japan,Sydney,Beauty,6118.26,6,15.0,Debit Card,Cancelled,2023-03-04,5,31203.13,31203.13,5506.43,March,2023,1,36-45,True,21,BEAUTY,126
+ORD0127,Customer_127,44,Brazil,Sydney,Toys,7672.34,9,20.0,UPI,Delivered,2023-03-05,3,55240.85,55240.85,13810.21,March,2023,1,36-45,True,5,TOYS,127
+ORD0128,Customer_128,52,Canada,Tokyo,Home,8148.56,4,15.0,Net Banking,Delivered,2023-03-05,1,27705.1,27705.1,4889.14,March,2023,1,46-65,True,25,HOME,128
+ORD0129,Customer_129,18,India,Mumbai,Sports,7209.42,8,20.0,Credit Card,Delivered,2023-03-06,3,46140.29,46140.29,11535.07,March,2023,1,18-25,True,5,SPORTS,129
+ORD0130,Customer_130,52,UK,Toronto,Books,9559.68,9,0.0,Credit Card,Pending,2023-03-06,4,86037.12,86037.12,0.0,March,2023,1,46-65,True,1,BOOKS,130
+ORD0131,Customer_131,54,Brazil,Mumbai,Books,280.5,4,0.0,UPI,Delivered,2023-03-07,4,1122.0,1122.0,0.0,March,2023,1,46-65,False,68,BOOKS,131
+ORD0132,Customer_132,64,India,Toronto,Food,2038.2,5,15.0,Debit Card,Returned,2023-03-07,4,8662.35,8662.35,1528.65,March,2023,1,46-65,False,41,FOOD,132
+ORD0133,Customer_133,31,Brazil,London,Food,174.87,8,10.0,Net Banking,Delivered,2023-03-08,5,1259.06,1259.06,139.9,March,2023,1,26-35,False,57,FOOD,133
+ORD0134,Customer_134,20,Japan,Tokyo,Books,6510.0,6,20.0,Debit Card,Delivered,2023-03-08,4,31248.0,31248.0,7812.0,March,2023,1,18-25,True,14,BOOKS,134
+ORD0135,Customer_135,18,India,London,Sports,8990.5,7,5.0,Credit Card,Delivered,2023-03-09,4,59786.82,59786.82,3146.68,March,2023,1,18-25,True,2,SPORTS,135
+ORD0136,Customer_136,22,Australia,Mumbai,Books,2510.47,3,15.0,Debit Card,Delivered,2023-03-09,2,6401.7,6401.7,1129.71,March,2023,1,18-25,False,55,BOOKS,136
+ORD0137,Customer_137,43,France,Tokyo,Home,9277.64,7,5.0,Credit Card,Delivered,2023-03-10,1,61696.31,61696.31,3247.17,March,2023,1,36-45,True,3,HOME,137
+ORD0138,Customer_138,31,Australia,London,Sports,696.65,8,15.0,Debit Card,Delivered,2023-03-10,4,4737.22,4737.22,835.98,March,2023,1,26-35,False,58,SPORTS,138
+ORD0139,Customer_139,42,UAE,New York,Food,9350.92,6,10.0,UPI,Delivered,2023-03-11,4,50494.97,50494.97,5610.55,March,2023,1,36-45,True,5,FOOD,139
+ORD0140,Customer_140,44,France,Mumbai,Electronics,3581.06,9,10.0,Cash,Pending,2023-03-11,5,29006.59,29006.59,3222.95,March,2023,1,36-45,True,19,ELECTRONICS,140
+ORD0141,Customer_141,26,Australia,London,Beauty,1104.07,6,10.0,UPI,Delivered,2023-03-12,3,5961.98,5961.98,662.44,March,2023,1,26-35,False,51,BEAUTY,141
+ORD0142,Customer_142,32,France,New York,Home,4910.13,9,25.0,UPI,Cancelled,2023-03-12,1,33143.38,33143.38,11047.79,March,2023,1,26-35,True,18,HOME,142
+ORD0143,Customer_143,32,France,New York,Home,2642.09,4,10.0,Cash,Delivered,2023-03-13,4,9511.52,9511.52,1056.84,March,2023,1,26-35,False,45,HOME,143
+ORD0144,Customer_144,43,Germany,Sydney,Toys,2920.24,8,0.0,Cash,Cancelled,2023-03-13,3,23361.92,23361.92,0.0,March,2023,1,36-45,True,28,TOYS,144
+ORD0145,Customer_145,59,UK,Mumbai,Food,3142.17,4,0.0,Net Banking,Delivered,2023-03-14,4,12568.68,12568.68,0.0,March,2023,1,46-65,False,30,FOOD,145
+ORD0146,Customer_146,30,UK,New York,Food,8049.96,2,25.0,Net Banking,Delivered,2023-03-14,5,12074.94,12074.94,4024.98,March,2023,1,26-35,False,32,FOOD,146
+ORD0147,Customer_147,49,Germany,Sydney,Clothing,5437.7,9,20.0,UPI,Delivered,2023-03-15,2,39151.44,39151.44,9787.86,March,2023,1,46-65,True,15,CLOTHING,147
+ORD0148,Customer_148,56,Brazil,London,Home,3181.95,5,5.0,UPI,Delivered,2023-03-15,4,15114.26,15114.26,795.49,March,2023,1,46-65,False,39,HOME,148
+ORD0149,Customer_149,49,USA,Berlin,Clothing,6142.3,4,15.0,Credit Card,Delivered,2023-03-16,4,20883.82,20883.82,3685.38,March,2023,1,46-65,True,29,CLOTHING,149
+ORD0150,Customer_150,21,Brazil,Mumbai,Clothing,7189.89,2,15.0,Credit Card,Cancelled,2023-03-16,3,12222.81,12222.81,2156.97,March,2023,1,18-25,False,41,CLOTHING,150
+ORD0151,Customer_151,47,India,Tokyo,Beauty,2798.98,1,25.0,Net Banking,Returned,2023-03-17,4,2099.24,2099.24,699.74,March,2023,1,46-65,False,60,BEAUTY,151
+ORD0152,Customer_152,54,India,Toronto,Clothing,4194.14,7,0.0,Net Banking,Returned,2023-03-17,5,29358.98,29358.98,0.0,March,2023,1,46-65,True,22,CLOTHING,152
+ORD0153,Customer_153,40,France,Toronto,Sports,1306.67,6,15.0,Credit Card,Cancelled,2023-03-18,4,6664.02,6664.02,1176.0,March,2023,1,36-45,False,53,SPORTS,153
+ORD0154,Customer_154,56,Australia,London,Books,1893.38,2,0.0,Credit Card,Delivered,2023-03-18,5,3786.76,3786.76,0.0,March,2023,1,46-65,False,63,BOOKS,154
+ORD0155,Customer_155,62,Australia,Dubai,Electronics,6843.07,8,20.0,Debit Card,Delivered,2023-03-19,2,43795.65,43795.65,10948.91,March,2023,1,46-65,True,10,ELECTRONICS,155
+ORD0156,Customer_156,32,UK,Dubai,Food,1896.24,4,5.0,Debit Card,Delivered,2023-03-19,5,7205.71,7205.71,379.25,March,2023,1,26-35,False,45,FOOD,156
+ORD0157,Customer_157,60,Canada,London,Sports,5299.12,8,20.0,Credit Card,Delivered,2023-03-20,4,33914.37,33914.37,8478.59,March,2023,1,46-65,True,14,SPORTS,157
+ORD0158,Customer_158,46,Brazil,New York,Electronics,7119.56,7,25.0,Debit Card,Delivered,2023-03-20,5,37377.69,37377.69,12459.23,March,2023,1,46-65,True,13,ELECTRONICS,158
+ORD0159,Customer_159,53,UAE,Mumbai,Home,1158.08,5,10.0,Cash,Delivered,2023-03-21,4,5211.36,5211.36,579.04,March,2023,1,46-65,False,53,HOME,159
+ORD0160,Customer_160,30,Japan,Toronto,Home,5716.39,8,10.0,Net Banking,Delivered,2023-03-21,5,41158.01,41158.01,4573.11,March,2023,1,26-35,True,14,HOME,160
+ORD0161,Customer_161,49,Australia,Toronto,Home,2639.97,9,10.0,Net Banking,Delivered,2023-03-22,4,21383.76,21383.76,2375.97,March,2023,1,46-65,True,32,HOME,161
+ORD0162,Customer_162,24,Japan,New York,Sports,9632.98,5,20.0,Credit Card,Returned,2023-03-22,2,38531.92,38531.92,9632.98,March,2023,1,18-25,True,10,SPORTS,162
+ORD0163,Customer_163,39,France,Toronto,Sports,4887.1,5,15.0,UPI,Cancelled,2023-03-23,1,20770.18,20770.18,3665.32,March,2023,1,36-45,True,30,SPORTS,163
+ORD0164,Customer_164,45,Japan,Tokyo,Food,8079.33,2,5.0,Credit Card,Delivered,2023-03-23,5,15350.73,15350.73,807.93,March,2023,1,36-45,False,25,FOOD,164
+ORD0165,Customer_165,19,UAE,Mumbai,Books,5547.24,5,10.0,Debit Card,Returned,2023-03-24,4,24962.58,24962.58,2773.62,March,2023,1,18-25,True,20,BOOKS,165
+ORD0166,Customer_166,59,Germany,São Paulo,Toys,529.78,3,25.0,UPI,Pending,2023-03-24,5,1192.0,1192.0,397.34,March,2023,1,46-65,False,62,TOYS,166
+ORD0167,Customer_167,62,UAE,Toronto,Clothing,6368.2,7,25.0,Debit Card,Delivered,2023-03-25,3,33433.05,33433.05,11144.35,March,2023,1,46-65,True,18,CLOTHING,167
+ORD0168,Customer_168,23,Japan,London,Home,9518.89,5,10.0,Cash,Delivered,2023-03-25,4,42835.0,42835.0,4759.44,March,2023,1,18-25,True,13,HOME,168
+ORD0169,Customer_169,45,UAE,Tokyo,Beauty,6055.96,8,10.0,Debit Card,Delivered,2023-03-26,1,43602.91,43602.91,4844.77,March,2023,1,36-45,True,10,BEAUTY,169
+ORD0170,Customer_170,45,USA,Toronto,Books,8209.97,1,5.0,Cash,Pending,2023-03-26,4,7799.47,7799.47,410.5,March,2023,1,36-45,False,47,BOOKS,170
+ORD0171,Customer_171,61,France,Tokyo,Beauty,8853.64,3,10.0,Cash,Returned,2023-03-27,5,23904.83,23904.83,2656.09,March,2023,1,46-65,True,26,BEAUTY,171
+ORD0172,Customer_172,61,Brazil,Sydney,Food,2357.99,3,5.0,Debit Card,Delivered,2023-03-27,4,6720.27,6720.27,353.7,March,2023,1,46-65,False,46,FOOD,172
+ORD0173,Customer_173,37,Germany,São Paulo,Food,2199.24,9,25.0,Debit Card,Delivered,2023-03-28,3,14844.87,14844.87,4948.29,March,2023,1,36-45,False,26,FOOD,173
+ORD0174,Customer_174,47,Australia,Paris,Food,6148.71,5,10.0,Cash,Delivered,2023-03-28,4,27669.2,27669.2,3074.36,March,2023,1,46-65,True,21,FOOD,174
+ORD0175,Customer_175,28,India,London,Electronics,4169.18,9,20.0,UPI,Delivered,2023-03-29,5,30018.1,30018.1,7504.52,March,2023,1,26-35,True,18,ELECTRONICS,175
+ORD0176,Customer_176,45,Brazil,London,Beauty,8414.63,9,20.0,Cash,Delivered,2023-03-29,4,60585.34,60585.34,15146.33,March,2023,1,36-45,True,6,BEAUTY,176
+ORD0177,Customer_177,42,India,Mumbai,Books,9010.23,1,25.0,Net Banking,Returned,2023-03-30,5,6757.67,6757.67,2252.56,March,2023,1,36-45,False,54,BOOKS,177
+ORD0178,Customer_178,56,France,Tokyo,Toys,3598.87,2,5.0,Cash,Cancelled,2023-03-30,5,6837.85,6837.85,359.89,March,2023,1,46-65,False,50,TOYS,178
+ORD0179,Customer_179,50,Germany,New York,Books,2445.02,5,20.0,UPI,Returned,2023-03-31,5,9780.08,9780.08,2445.02,March,2023,1,46-65,False,39,BOOKS,179
+ORD0180,Customer_180,18,UK,London,Sports,7827.2,4,5.0,Net Banking,Returned,2023-03-31,5,29743.36,29743.36,1565.44,March,2023,1,18-25,True,21,SPORTS,180
+ORD0181,Customer_181,44,Australia,Tokyo,Sports,2820.58,9,20.0,Credit Card,Cancelled,2023-04-01,3,20308.18,20308.18,5077.04,April,2023,2,36-45,True,31,SPORTS,181
+ORD0182,Customer_182,30,USA,Tokyo,Home,8243.88,7,20.0,Credit Card,Delivered,2023-04-01,4,46165.73,46165.73,11541.43,April,2023,2,26-35,True,11,HOME,182
+ORD0183,Customer_183,58,UK,Berlin,Toys,4295.01,6,5.0,UPI,Delivered,2023-04-02,4,24481.56,24481.56,1288.5,April,2023,2,46-65,True,26,TOYS,183
+ORD0184,Customer_184,20,France,Berlin,Sports,6708.74,7,15.0,Cash,Delivered,2023-04-02,1,39917.0,39917.0,7044.18,April,2023,2,18-25,True,8,SPORTS,184
+ORD0185,Customer_185,56,Brazil,Paris,Food,1045.8,1,20.0,Debit Card,Cancelled,2023-04-03,5,836.64,836.64,209.16,April,2023,2,46-65,False,59,FOOD,185
+ORD0186,Customer_186,23,USA,Sydney,Books,6276.21,1,10.0,UPI,Delivered,2023-04-03,4,5648.59,5648.59,627.62,April,2023,2,18-25,False,58,BOOKS,186
+ORD0187,Customer_187,25,UAE,Paris,Beauty,4572.5,8,25.0,Net Banking,Cancelled,2023-04-04,4,27435.0,27435.0,9145.0,April,2023,2,18-25,True,24,BEAUTY,187
+ORD0188,Customer_188,44,Japan,Toronto,Food,5907.42,2,15.0,Net Banking,Delivered,2023-04-04,4,10042.61,10042.61,1772.23,April,2023,2,36-45,False,38,FOOD,188
+ORD0189,Customer_189,26,USA,New York,Electronics,1763.34,9,5.0,Credit Card,Delivered,2023-04-05,4,15076.56,15076.56,793.5,April,2023,2,26-35,False,31,ELECTRONICS,189
+ORD0190,Customer_190,54,France,Toronto,Sports,7395.05,7,15.0,Net Banking,Delivered,2023-04-05,4,44000.55,44000.55,7764.8,April,2023,2,46-65,True,6,SPORTS,190
+ORD0191,Customer_191,50,Canada,Dubai,Food,8641.69,6,0.0,UPI,Delivered,2023-04-06,2,51850.14,51850.14,0.0,April,2023,2,46-65,True,3,FOOD,191
+ORD0192,Customer_192,59,Japan,Toronto,Food,2245.72,1,0.0,Net Banking,Cancelled,2023-04-06,4,2245.72,2245.72,0.0,April,2023,2,46-65,False,55,FOOD,192
+ORD0193,Customer_193,61,India,Mumbai,Electronics,1047.57,1,20.0,UPI,Cancelled,2023-04-07,3,838.06,838.06,209.51,April,2023,2,46-65,False,56,ELECTRONICS,193
+ORD0194,Customer_194,41,Australia,Toronto,Clothing,334.02,2,20.0,Debit Card,Delivered,2023-04-07,4,534.43,534.43,133.61,April,2023,2,36-45,False,63,CLOTHING,194
+ORD0195,Customer_195,32,India,Paris,Books,6455.52,6,10.0,Credit Card,Delivered,2023-04-08,5,34859.81,34859.81,3873.31,April,2023,2,26-35,True,11,BOOKS,195
+ORD0196,Customer_196,42,USA,London,Beauty,6110.23,6,25.0,Net Banking,Delivered,2023-04-08,5,27496.03,27496.03,9165.34,April,2023,2,36-45,True,23,BEAUTY,196
+ORD0197,Customer_197,49,India,London,Home,5512.3,2,15.0,UPI,Delivered,2023-04-09,3,9370.91,9370.91,1653.69,April,2023,2,46-65,False,47,HOME,197
+ORD0198,Customer_198,41,France,Berlin,Clothing,2396.28,1,0.0,Cash,Delivered,2023-04-09,4,2396.28,2396.28,0.0,April,2023,2,36-45,False,58,CLOTHING,198
+ORD0199,Customer_199,58,UAE,New York,Sports,3969.97,5,20.0,Credit Card,Returned,2023-04-10,5,15879.88,15879.88,3969.97,April,2023,2,46-65,False,44,SPORTS,199
+ORD0200,Customer_200,29,Brazil,New York,Food,5985.32,5,25.0,Debit Card,Delivered,2023-04-10,2,22444.95,22444.95,7481.65,April,2023,2,26-35,True,24,FOOD,200
+ORD0201,Customer_201,56,Australia,Mumbai,Toys,5017.99,2,15.0,UPI,Delivered,2023-04-11,2,8530.58,8530.58,1505.4,April,2023,2,46-65,False,42,TOYS,201
+ORD0202,Customer_202,19,India,Paris,Electronics,9879.08,6,20.0,Debit Card,Delivered,2023-04-11,3,47419.58,47419.58,11854.9,April,2023,2,18-25,True,8,ELECTRONICS,202
+ORD0203,Customer_203,20,India,Berlin,Electronics,1450.75,9,0.0,Debit Card,Delivered,2023-04-12,4,13056.75,13056.75,0.0,April,2023,2,18-25,False,33,ELECTRONICS,203
+ORD0204,Customer_204,54,USA,Dubai,Toys,6981.93,2,0.0,Net Banking,Delivered,2023-04-12,3,13963.86,13963.86,0.0,April,2023,2,46-65,False,37,TOYS,204
+ORD0205,Customer_205,42,Brazil,New York,Books,4102.76,2,0.0,Net Banking,Delivered,2023-04-13,4,8205.52,8205.52,0.0,April,2023,2,36-45,False,46,BOOKS,205
+ORD0206,Customer_206,19,UK,London,Clothing,4339.18,3,20.0,UPI,Delivered,2023-04-13,4,10414.03,10414.03,2603.51,April,2023,2,18-25,False,42,CLOTHING,206
+ORD0207,Customer_207,19,India,Toronto,Home,7204.22,7,5.0,Cash,Delivered,2023-04-14,4,47908.06,47908.06,2521.48,April,2023,2,18-25,True,8,HOME,207
+ORD0208,Customer_208,45,France,Toronto,Books,6955.12,6,20.0,UPI,Delivered,2023-04-14,3,33384.58,33384.58,8346.14,April,2023,2,36-45,True,12,BOOKS,208
+ORD0209,Customer_209,40,Canada,Berlin,Toys,9913.43,8,25.0,Cash,Delivered,2023-04-15,4,59480.58,59480.58,19826.86,April,2023,2,36-45,True,3,TOYS,209
+ORD0210,Customer_210,54,Australia,Paris,Food,1371.1,8,20.0,Debit Card,Delivered,2023-04-15,5,8775.04,8775.04,2193.76,April,2023,2,46-65,False,40,FOOD,210
+ORD0211,Customer_211,49,India,Paris,Toys,1130.69,6,10.0,Credit Card,Pending,2023-04-16,5,6105.73,6105.73,678.41,April,2023,2,46-65,False,53,TOYS,211
+ORD0212,Customer_212,50,France,Sydney,Books,7270.95,3,10.0,UPI,Delivered,2023-04-16,5,19631.56,19631.56,2181.28,April,2023,2,46-65,True,28,BOOKS,212
+ORD0213,Customer_213,18,France,São Paulo,Beauty,5826.03,3,10.0,UPI,Delivered,2023-04-17,4,15730.28,15730.28,1747.81,April,2023,2,18-25,False,39,BEAUTY,213
+ORD0214,Customer_214,36,Australia,New York,Electronics,2814.19,1,5.0,Cash,Delivered,2023-04-17,5,2673.48,2673.48,140.71,April,2023,2,36-45,False,53,ELECTRONICS,214
+ORD0215,Customer_215,19,UK,Paris,Electronics,886.25,7,5.0,Debit Card,Delivered,2023-04-18,5,5893.56,5893.56,310.19,April,2023,2,18-25,False,47,ELECTRONICS,215
+ORD0216,Customer_216,61,France,London,Sports,948.02,5,20.0,Debit Card,Delivered,2023-04-18,5,3792.08,3792.08,948.02,April,2023,2,46-65,False,60,SPORTS,216
+ORD0217,Customer_217,43,Canada,Berlin,Sports,8952.49,4,10.0,Cash,Cancelled,2023-04-19,2,32228.96,32228.96,3581.0,April,2023,2,36-45,True,16,SPORTS,217
+ORD0218,Customer_218,49,France,Dubai,Toys,1999.49,4,5.0,Debit Card,Cancelled,2023-04-19,1,7598.06,7598.06,399.9,April,2023,2,46-65,False,47,TOYS,218
+ORD0219,Customer_219,23,France,Sydney,Home,3301.38,4,0.0,Net Banking,Delivered,2023-04-20,3,13205.52,13205.52,0.0,April,2023,2,18-25,False,41,HOME,219
+ORD0220,Customer_220,49,France,Tokyo,Food,2343.9,6,20.0,Credit Card,Delivered,2023-04-20,5,11250.72,11250.72,2812.68,April,2023,2,46-65,False,36,FOOD,220
+ORD0221,Customer_221,21,UAE,Mumbai,Beauty,3614.46,8,25.0,UPI,Delivered,2023-04-21,4,21686.76,21686.76,7228.92,April,2023,2,18-25,True,31,BEAUTY,221
+ORD0222,Customer_222,28,UAE,Dubai,Clothing,787.3,8,15.0,Credit Card,Returned,2023-04-21,4,5353.64,5353.64,944.76,April,2023,2,26-35,False,52,CLOTHING,222
+ORD0223,Customer_223,42,UK,Tokyo,Books,5238.69,5,20.0,UPI,Delivered,2023-04-22,5,20954.76,20954.76,5238.69,April,2023,2,36-45,True,25,BOOKS,223
+ORD0224,Customer_224,55,India,Toronto,Home,769.36,6,15.0,Net Banking,Delivered,2023-04-22,5,3923.74,3923.74,692.42,April,2023,2,46-65,False,55,HOME,224
+ORD0225,Customer_225,41,France,Mumbai,Food,8023.53,4,10.0,Debit Card,Delivered,2023-04-23,5,28884.71,28884.71,3209.41,April,2023,2,36-45,True,19,FOOD,225
+ORD0226,Customer_226,22,Brazil,New York,Sports,2413.75,9,15.0,Cash,Delivered,2023-04-23,4,18465.19,18465.19,3258.56,April,2023,2,18-25,False,39,SPORTS,226
+ORD0227,Customer_227,51,India,London,Toys,5446.12,8,10.0,Net Banking,Delivered,2023-04-24,5,39212.06,39212.06,4356.9,April,2023,2,46-65,True,15,TOYS,227
+ORD0228,Customer_228,23,UK,Mumbai,Books,8812.78,1,0.0,Credit Card,Delivered,2023-04-24,3,8812.78,8812.78,0.0,April,2023,2,18-25,False,44,BOOKS,228
+ORD0229,Customer_229,39,Germany,São Paulo,Sports,6543.69,2,15.0,Cash,Delivered,2023-04-25,3,11124.27,11124.27,1963.11,April,2023,2,36-45,False,49,SPORTS,229
+ORD0230,Customer_230,28,India,Tokyo,Toys,5376.28,9,20.0,Debit Card,Cancelled,2023-04-25,3,38709.22,38709.22,9677.3,April,2023,2,26-35,True,16,TOYS,230
+ORD0231,Customer_231,33,India,New York,Books,3310.9,8,10.0,Net Banking,Delivered,2023-04-26,4,23838.48,23838.48,2648.72,April,2023,2,26-35,True,21,BOOKS,231
+ORD0232,Customer_232,50,Japan,São Paulo,Clothing,3396.72,3,20.0,Cash,Delivered,2023-04-26,4,8152.13,8152.13,2038.03,April,2023,2,46-65,False,46,CLOTHING,232
+ORD0233,Customer_233,26,USA,Toronto,Food,6727.92,8,5.0,Net Banking,Returned,2023-04-27,5,51132.19,51132.19,2691.17,April,2023,2,26-35,True,4,FOOD,233
+ORD0234,Customer_234,23,Japan,São Paulo,Books,9941.98,1,10.0,Net Banking,Delivered,2023-04-27,2,8947.78,8947.78,994.2,April,2023,2,18-25,False,42,BOOKS,234
+ORD0235,Customer_235,33,Canada,Sydney,Beauty,6652.21,4,15.0,Debit Card,Delivered,2023-04-28,5,22617.51,22617.51,3991.33,April,2023,2,26-35,True,28,BEAUTY,235
+ORD0236,Customer_236,46,UAE,Sydney,Home,5622.06,3,10.0,UPI,Delivered,2023-04-28,4,15179.56,15179.56,1686.62,April,2023,2,46-65,False,38,HOME,236
+ORD0237,Customer_237,20,UAE,Berlin,Electronics,7333.44,6,20.0,Cash,Delivered,2023-04-29,4,35200.51,35200.51,8800.13,April,2023,2,18-25,True,15,ELECTRONICS,237
+ORD0238,Customer_238,42,USA,Dubai,Beauty,4705.54,7,0.0,Debit Card,Cancelled,2023-04-29,4,32938.78,32938.78,0.0,April,2023,2,36-45,True,17,BEAUTY,238
+ORD0239,Customer_239,53,Australia,Dubai,Beauty,695.41,4,10.0,Net Banking,Delivered,2023-04-30,4,2503.48,2503.48,278.16,April,2023,2,46-65,False,58,BEAUTY,239
+ORD0240,Customer_240,36,Australia,New York,Home,5666.74,7,15.0,Debit Card,Delivered,2023-04-30,4,33717.1,33717.1,5950.08,April,2023,2,36-45,True,17,HOME,240
+ORD0241,Customer_241,43,UK,Toronto,Electronics,9580.49,9,5.0,UPI,Delivered,2023-05-01,4,81913.19,81913.19,4311.22,May,2023,2,36-45,True,2,ELECTRONICS,241
+ORD0242,Customer_242,20,USA,Paris,Beauty,1835.5,2,25.0,Cash,Delivered,2023-05-01,3,2753.25,2753.25,917.75,May,2023,2,18-25,False,57,BEAUTY,242
+ORD0243,Customer_243,36,India,Sydney,Books,6931.05,3,0.0,UPI,Cancelled,2023-05-02,2,20793.15,20793.15,0.0,May,2023,2,36-45,True,26,BOOKS,243
+ORD0244,Customer_244,37,Australia,New York,Books,2089.24,5,5.0,Credit Card,Delivered,2023-05-02,4,9923.89,9923.89,522.31,May,2023,2,36-45,False,38,BOOKS,244
+ORD0245,Customer_245,49,France,Paris,Books,5404.69,3,10.0,Cash,Delivered,2023-05-03,5,14592.66,14592.66,1621.41,May,2023,2,46-65,False,34,BOOKS,245
+ORD0246,Customer_246,24,Brazil,Dubai,Electronics,1057.1,8,20.0,UPI,Cancelled,2023-05-03,4,6765.44,6765.44,1691.36,May,2023,2,18-25,False,42,ELECTRONICS,246
+ORD0247,Customer_247,58,India,Berlin,Beauty,4558.67,8,20.0,Net Banking,Delivered,2023-05-04,5,29175.49,29175.49,7293.87,May,2023,2,46-65,True,22,BEAUTY,247
+ORD0248,Customer_248,50,Canada,São Paulo,Toys,7586.02,8,15.0,Cash,Returned,2023-05-04,5,51584.94,51584.94,9103.22,May,2023,2,46-65,True,7,TOYS,248
+ORD0249,Customer_249,57,France,Sydney,Electronics,3540.96,9,0.0,Cash,Returned,2023-05-05,5,31868.64,31868.64,0.0,May,2023,2,46-65,True,16,ELECTRONICS,249
+ORD0250,Customer_250,56,France,New York,Books,6682.63,4,0.0,Debit Card,Returned,2023-05-05,5,26730.52,26730.52,0.0,May,2023,2,46-65,True,18,BOOKS,250
+ORD0251,Customer_251,35,USA,Mumbai,Home,7974.95,5,20.0,Net Banking,Delivered,2023-05-06,4,31899.8,31899.8,7974.95,May,2023,2,26-35,True,19,HOME,251
+ORD0252,Customer_252,57,UK,Paris,Beauty,9279.06,5,15.0,Credit Card,Delivered,2023-05-06,5,39436.0,39436.0,6959.29,May,2023,2,46-65,True,12,BEAUTY,252
+ORD0253,Customer_253,18,Canada,São Paulo,Beauty,2422.96,8,25.0,UPI,Cancelled,2023-05-07,5,14537.76,14537.76,4845.92,May,2023,2,18-25,False,40,BEAUTY,253
+ORD0254,Customer_254,28,Australia,Sydney,Sports,4053.23,7,10.0,Debit Card,Delivered,2023-05-07,4,25535.35,25535.35,2837.26,May,2023,2,26-35,True,26,SPORTS,254
+ORD0255,Customer_255,45,USA,Dubai,Sports,1608.92,9,10.0,UPI,Delivered,2023-05-08,4,13032.25,13032.25,1448.03,May,2023,2,36-45,False,47,SPORTS,255
+ORD0256,Customer_256,42,Australia,Toronto,Clothing,9925.59,8,20.0,Credit Card,Returned,2023-05-08,1,63523.78,63523.78,15880.94,May,2023,2,36-45,True,2,CLOTHING,256
+ORD0257,Customer_257,40,USA,Paris,Toys,9277.31,2,5.0,Credit Card,Returned,2023-05-09,5,17626.89,17626.89,927.73,May,2023,2,36-45,False,36,TOYS,257
+ORD0258,Customer_258,48,USA,Dubai,Toys,5445.58,4,10.0,Cash,Delivered,2023-05-09,5,19604.09,19604.09,2178.23,May,2023,2,46-65,True,34,TOYS,258
+ORD0259,Customer_259,47,USA,Sydney,Food,8436.13,6,25.0,Credit Card,Delivered,2023-05-10,2,37962.58,37962.58,12654.2,May,2023,2,46-65,True,14,FOOD,259
+ORD0260,Customer_260,59,UK,Paris,Toys,5257.48,2,20.0,UPI,Delivered,2023-05-10,4,8411.97,8411.97,2102.99,May,2023,2,46-65,False,43,TOYS,260
+ORD0261,Customer_261,52,USA,São Paulo,Sports,6273.5,7,15.0,Net Banking,Returned,2023-05-11,4,37327.32,37327.32,6587.18,May,2023,2,46-65,True,11,SPORTS,261
+ORD0262,Customer_262,24,Germany,Sydney,Electronics,982.33,3,0.0,Net Banking,Returned,2023-05-11,2,2946.99,2946.99,0.0,May,2023,2,18-25,False,52,ELECTRONICS,262
+ORD0263,Customer_263,33,Brazil,Tokyo,Toys,7577.18,3,20.0,Cash,Delivered,2023-05-12,4,18185.23,18185.23,4546.31,May,2023,2,26-35,False,35,TOYS,263
+ORD0264,Customer_264,43,Australia,New York,Sports,1364.36,2,25.0,UPI,Delivered,2023-05-12,3,2046.54,2046.54,682.18,May,2023,2,36-45,False,62,SPORTS,264
+ORD0265,Customer_265,19,India,São Paulo,Clothing,8278.07,8,10.0,UPI,Returned,2023-05-13,2,59602.1,59602.1,6622.46,May,2023,2,18-25,True,4,CLOTHING,265
+ORD0266,Customer_266,18,Japan,Paris,Beauty,7842.08,6,15.0,Credit Card,Delivered,2023-05-13,4,39994.61,39994.61,7057.87,May,2023,2,18-25,True,11,BEAUTY,266
+ORD0267,Customer_267,29,Canada,Toronto,Toys,7116.57,1,20.0,UPI,Delivered,2023-05-14,5,5693.26,5693.26,1423.31,May,2023,2,26-35,False,55,TOYS,267
+ORD0268,Customer_268,22,UAE,Dubai,Clothing,457.99,1,0.0,Debit Card,Pending,2023-05-14,1,457.99,457.99,0.0,May,2023,2,18-25,False,64,CLOTHING,268
+ORD0269,Customer_269,54,UK,Mumbai,Beauty,3100.97,7,15.0,Credit Card,Delivered,2023-05-15,5,18450.77,18450.77,3256.02,May,2023,2,46-65,False,33,BEAUTY,269
+ORD0270,Customer_270,49,India,Dubai,Home,2704.81,8,0.0,Debit Card,Delivered,2023-05-15,4,21638.48,21638.48,0.0,May,2023,2,46-65,True,31,HOME,270
+ORD0271,Customer_271,26,France,Paris,Home,3665.35,5,25.0,Cash,Delivered,2023-05-16,2,13745.06,13745.06,4581.69,May,2023,2,26-35,False,40,HOME,271
+ORD0272,Customer_272,58,Germany,Dubai,Beauty,967.66,5,5.0,Net Banking,Delivered,2023-05-16,3,4596.38,4596.38,241.92,May,2023,2,46-65,False,53,BEAUTY,272
+ORD0273,Customer_273,52,UAE,New York,Toys,9375.88,4,15.0,Cash,Returned,2023-05-17,4,31877.99,31877.99,5625.53,May,2023,2,46-65,True,19,TOYS,273
+ORD0274,Customer_274,36,Japan,Sydney,Food,5582.64,6,25.0,Net Banking,Delivered,2023-05-17,4,25121.88,25121.88,8373.96,May,2023,2,36-45,True,23,FOOD,274
+ORD0275,Customer_275,33,India,Mumbai,Sports,3124.69,6,0.0,Cash,Pending,2023-05-18,5,18748.14,18748.14,0.0,May,2023,2,26-35,True,35,SPORTS,275
+ORD0276,Customer_276,20,UAE,London,Electronics,4030.12,3,10.0,UPI,Delivered,2023-05-18,5,10881.32,10881.32,1209.04,May,2023,2,18-25,False,36,ELECTRONICS,276
+ORD0277,Customer_277,37,India,Paris,Electronics,4527.31,9,10.0,Debit Card,Delivered,2023-05-19,4,36671.21,36671.21,4074.58,May,2023,2,36-45,True,14,ELECTRONICS,277
+ORD0278,Customer_278,41,Germany,Berlin,Books,6045.88,7,5.0,Net Banking,Delivered,2023-05-19,3,40205.1,40205.1,2116.06,May,2023,2,36-45,True,9,BOOKS,278
+ORD0279,Customer_279,50,Japan,London,Beauty,5205.23,1,15.0,Credit Card,Delivered,2023-05-20,4,4424.45,4424.45,780.78,May,2023,2,46-65,False,54,BEAUTY,279
+ORD0280,Customer_280,41,France,Dubai,Electronics,9201.98,7,15.0,Debit Card,Delivered,2023-05-20,4,54751.78,54751.78,9662.08,May,2023,2,36-45,True,5,ELECTRONICS,280
+ORD0281,Customer_281,28,USA,Paris,Toys,5019.94,5,15.0,Credit Card,Delivered,2023-05-21,4,21334.74,21334.74,3764.95,May,2023,2,26-35,True,33,TOYS,281
+ORD0282,Customer_282,25,Australia,Tokyo,Food,9922.36,5,0.0,Debit Card,Delivered,2023-05-21,2,49611.8,49611.8,0.0,May,2023,2,18-25,True,6,FOOD,282
+ORD0283,Customer_283,53,France,Berlin,Beauty,8529.11,2,5.0,Debit Card,Delivered,2023-05-22,2,16205.31,16205.31,852.91,May,2023,2,46-65,False,37,BEAUTY,283
+ORD0284,Customer_284,55,USA,Mumbai,Food,2164.25,4,15.0,Cash,Cancelled,2023-05-22,5,7358.45,7358.45,1298.55,May,2023,2,46-65,False,44,FOOD,284
+ORD0285,Customer_285,57,UK,Toronto,Toys,9312.89,6,25.0,Net Banking,Cancelled,2023-05-23,4,41908.0,41908.0,13969.34,May,2023,2,46-65,True,14,TOYS,285
+ORD0286,Customer_286,37,Brazil,Tokyo,Electronics,1252.03,7,10.0,Net Banking,Cancelled,2023-05-23,3,7887.79,7887.79,876.42,May,2023,2,36-45,False,39,ELECTRONICS,286
+ORD0287,Customer_287,52,Canada,London,Electronics,8192.75,5,0.0,Debit Card,Delivered,2023-05-24,4,40963.75,40963.75,0.0,May,2023,2,46-65,True,11,ELECTRONICS,287
+ORD0288,Customer_288,42,Canada,Sydney,Books,3868.17,9,25.0,UPI,Delivered,2023-05-24,3,26110.15,26110.15,8703.38,May,2023,2,36-45,True,19,BOOKS,288
+ORD0289,Customer_289,52,Australia,New York,Electronics,8791.95,3,10.0,UPI,Cancelled,2023-05-25,4,23738.27,23738.27,2637.58,May,2023,2,46-65,True,23,ELECTRONICS,289
+ORD0290,Customer_290,42,Japan,Toronto,Beauty,8693.76,1,10.0,Credit Card,Delivered,2023-05-25,4,7824.38,7824.38,869.38,May,2023,2,36-45,False,47,BEAUTY,290
+ORD0291,Customer_291,46,Germany,Tokyo,Toys,8078.66,4,0.0,Credit Card,Delivered,2023-05-26,5,32314.64,32314.64,0.0,May,2023,2,46-65,True,18,TOYS,291
+ORD0292,Customer_292,35,Japan,Sydney,Home,7921.3,9,10.0,Cash,Returned,2023-05-26,5,64162.53,64162.53,7129.17,May,2023,2,26-35,True,2,HOME,292
+ORD0293,Customer_293,63,Germany,Sydney,Toys,3116.32,4,5.0,Debit Card,Cancelled,2023-05-27,4,11842.02,11842.02,623.26,May,2023,2,46-65,False,39,TOYS,293
+ORD0294,Customer_294,35,Japan,Paris,Beauty,901.1,2,0.0,Credit Card,Delivered,2023-05-27,4,1802.2,1802.2,0.0,May,2023,2,26-35,False,62,BEAUTY,294
+ORD0295,Customer_295,19,Brazil,Tokyo,Beauty,4089.5,5,10.0,Credit Card,Delivered,2023-05-28,4,18402.75,18402.75,2044.75,May,2023,2,18-25,False,34,BEAUTY,295
+ORD0296,Customer_296,52,UK,Mumbai,Books,1817.89,3,20.0,Debit Card,Cancelled,2023-05-28,5,4362.94,4362.94,1090.73,May,2023,2,46-65,False,61,BOOKS,296
+ORD0297,Customer_297,33,UK,Dubai,Books,6980.02,9,25.0,Cash,Delivered,2023-05-29,4,47115.14,47115.14,15705.05,May,2023,2,26-35,True,6,BOOKS,297
+ORD0298,Customer_298,58,USA,Berlin,Electronics,3526.39,4,10.0,Credit Card,Cancelled,2023-05-29,3,12695.0,12695.0,1410.56,May,2023,2,46-65,False,34,ELECTRONICS,298
+ORD0299,Customer_299,53,UAE,Berlin,Clothing,9758.54,6,5.0,Cash,Cancelled,2023-05-30,2,55623.68,55623.68,2927.56,May,2023,2,46-65,True,5,CLOTHING,299
+ORD0300,Customer_300,50,UK,London,Toys,6445.62,2,15.0,Net Banking,Returned,2023-05-30,4,10957.55,10957.55,1933.69,May,2023,2,46-65,False,40,TOYS,300
+ORD0301,Customer_301,21,UK,London,Toys,8242.56,6,10.0,Cash,Delivered,2023-05-31,4,44509.82,44509.82,4945.54,May,2023,2,18-25,True,12,TOYS,301
+ORD0302,Customer_302,50,France,Berlin,Clothing,1411.99,3,15.0,UPI,Delivered,2023-05-31,5,3600.57,3600.57,635.4,May,2023,2,46-65,False,56,CLOTHING,302
+ORD0303,Customer_303,31,France,Mumbai,Books,8633.94,9,20.0,UPI,Cancelled,2023-06-01,3,62164.37,62164.37,15541.09,June,2023,2,26-35,True,2,BOOKS,303
+ORD0304,Customer_304,38,USA,New York,Electronics,9235.3,2,10.0,Cash,Delivered,2023-06-01,4,16623.54,16623.54,1847.06,June,2023,2,36-45,False,28,ELECTRONICS,304
+ORD0305,Customer_305,37,UAE,São Paulo,Clothing,4921.91,9,0.0,UPI,Cancelled,2023-06-02,5,44297.19,44297.19,0.0,June,2023,2,36-45,True,13,CLOTHING,305
+ORD0306,Customer_306,25,Australia,Dubai,Electronics,6101.9,5,15.0,Net Banking,Delivered,2023-06-02,5,25933.08,25933.08,4576.42,June,2023,2,18-25,True,21,ELECTRONICS,306
+ORD0307,Customer_307,24,France,New York,Electronics,7671.62,8,20.0,Debit Card,Delivered,2023-06-03,4,49098.37,49098.37,12274.59,June,2023,2,18-25,True,7,ELECTRONICS,307
+ORD0308,Customer_308,20,Australia,Paris,Electronics,1830.9,2,0.0,UPI,Returned,2023-06-03,4,3661.8,3661.8,0.0,June,2023,2,18-25,False,50,ELECTRONICS,308
+ORD0309,Customer_309,34,India,São Paulo,Sports,5075.4,6,0.0,UPI,Cancelled,2023-06-04,4,30452.4,30452.4,0.0,June,2023,2,26-35,True,18,SPORTS,309
+ORD0310,Customer_310,50,France,São Paulo,Beauty,4046.76,3,0.0,Cash,Returned,2023-06-04,5,12140.28,12140.28,0.0,June,2023,2,46-65,False,43,BEAUTY,310
+ORD0311,Customer_311,29,Brazil,Tokyo,Electronics,1549.1,5,0.0,Net Banking,Cancelled,2023-06-05,2,7745.5,7745.5,0.0,June,2023,2,26-35,False,41,ELECTRONICS,311
+ORD0312,Customer_312,39,UAE,Mumbai,Sports,3738.59,8,10.0,Debit Card,Delivered,2023-06-05,5,26917.85,26917.85,2990.87,June,2023,2,36-45,True,23,SPORTS,312
+ORD0313,Customer_313,42,USA,Mumbai,Books,774.91,1,25.0,Cash,Cancelled,2023-06-06,5,581.18,581.18,193.73,June,2023,2,36-45,False,69,BOOKS,313
+ORD0314,Customer_314,63,India,São Paulo,Clothing,355.54,5,10.0,Cash,Returned,2023-06-06,4,1599.93,1599.93,177.77,June,2023,2,46-65,False,61,CLOTHING,314
+ORD0315,Customer_315,47,UAE,Tokyo,Beauty,1438.15,3,10.0,Net Banking,Delivered,2023-06-07,1,3883.01,3883.01,431.45,June,2023,2,46-65,False,55,BEAUTY,315
+ORD0316,Customer_316,55,Brazil,Dubai,Home,9634.84,4,20.0,Debit Card,Delivered,2023-06-07,4,30831.49,30831.49,7707.87,June,2023,2,46-65,True,22,HOME,316
+ORD0317,Customer_317,55,UAE,São Paulo,Clothing,5540.34,2,20.0,Net Banking,Delivered,2023-06-08,4,8864.54,8864.54,2216.14,June,2023,2,46-65,False,44,CLOTHING,317
+ORD0318,Customer_318,62,Brazil,Toronto,Beauty,9661.64,9,25.0,Debit Card,Delivered,2023-06-08,3,65216.07,65216.07,21738.69,June,2023,2,46-65,True,4,BEAUTY,318
+ORD0319,Customer_319,25,Brazil,London,Home,4381.73,3,20.0,Net Banking,Cancelled,2023-06-09,5,10516.15,10516.15,2629.04,June,2023,2,18-25,False,43,HOME,319
+ORD0320,Customer_320,44,Australia,London,Clothing,3186.98,2,5.0,Cash,Delivered,2023-06-09,4,6055.26,6055.26,318.7,June,2023,2,36-45,False,49,CLOTHING,320
+ORD0321,Customer_321,44,Japan,New York,Beauty,5110.8,9,25.0,Cash,Delivered,2023-06-10,4,34497.9,34497.9,11499.3,June,2023,2,36-45,True,14,BEAUTY,321
+ORD0322,Customer_322,51,India,Paris,Clothing,4451.17,7,20.0,Credit Card,Delivered,2023-06-10,5,24926.55,24926.55,6231.64,June,2023,2,46-65,True,25,CLOTHING,322
+ORD0323,Customer_323,42,UAE,London,Clothing,1146.08,6,25.0,UPI,Delivered,2023-06-11,2,5157.36,5157.36,1719.12,June,2023,2,36-45,False,53,CLOTHING,323
+ORD0324,Customer_324,47,Germany,Sydney,Home,6444.18,1,10.0,Net Banking,Delivered,2023-06-11,4,5799.76,5799.76,644.42,June,2023,2,46-65,False,51,HOME,324
+ORD0325,Customer_325,50,India,New York,Clothing,2238.78,5,10.0,Credit Card,Delivered,2023-06-12,2,10074.51,10074.51,1119.39,June,2023,2,46-65,False,43,CLOTHING,325
+ORD0326,Customer_326,45,Japan,London,Clothing,6233.92,3,25.0,UPI,Returned,2023-06-12,4,14026.32,14026.32,4675.44,June,2023,2,36-45,False,37,CLOTHING,326
+ORD0327,Customer_327,64,India,Paris,Home,6536.99,1,5.0,Net Banking,Delivered,2023-06-13,5,6210.14,6210.14,326.85,June,2023,2,46-65,False,50,HOME,327
+ORD0328,Customer_328,50,UK,Mumbai,Books,1605.05,4,5.0,Debit Card,Delivered,2023-06-13,4,6099.19,6099.19,321.01,June,2023,2,46-65,False,57,BOOKS,328
+ORD0329,Customer_329,22,Germany,Mumbai,Electronics,707.36,2,25.0,UPI,Delivered,2023-06-14,2,1061.04,1061.04,353.68,June,2023,2,18-25,False,55,ELECTRONICS,329
+ORD0330,Customer_330,36,Japan,Dubai,Toys,7829.54,2,20.0,Cash,Cancelled,2023-06-14,4,12527.26,12527.26,3131.82,June,2023,2,36-45,False,38,TOYS,330
+ORD0331,Customer_331,21,Australia,São Paulo,Food,4652.02,3,15.0,Credit Card,Delivered,2023-06-15,4,11862.65,11862.65,2093.41,June,2023,2,18-25,False,33,FOOD,331
+ORD0332,Customer_332,52,UAE,Toronto,Sports,675.82,8,5.0,UPI,Returned,2023-06-15,4,5136.23,5136.23,270.33,June,2023,2,46-65,False,57,SPORTS,332
+ORD0333,Customer_333,34,Canada,Mumbai,Food,9949.18,8,0.0,UPI,Cancelled,2023-06-16,5,79593.44,79593.44,0.0,June,2023,2,26-35,True,1,FOOD,333
+ORD0334,Customer_334,61,Japan,Tokyo,Food,672.03,7,10.0,Cash,Cancelled,2023-06-16,5,4233.79,4233.79,470.42,June,2023,2,46-65,False,50,FOOD,334
+ORD0335,Customer_335,45,USA,London,Beauty,6980.85,6,25.0,Net Banking,Delivered,2023-06-17,4,31413.83,31413.83,10471.28,June,2023,2,36-45,True,19,BEAUTY,335
+ORD0336,Customer_336,47,UAE,Tokyo,Electronics,9838.42,9,0.0,Debit Card,Cancelled,2023-06-17,4,88545.78,88545.78,0.0,June,2023,2,46-65,True,1,ELECTRONICS,336
+ORD0337,Customer_337,46,Japan,Paris,Beauty,2467.88,4,25.0,Cash,Delivered,2023-06-18,3,7403.64,7403.64,2467.88,June,2023,2,46-65,False,48,BEAUTY,337
+ORD0338,Customer_338,63,UK,Mumbai,Electronics,1508.27,1,10.0,Debit Card,Pending,2023-06-18,2,1357.44,1357.44,150.83,June,2023,2,46-65,False,54,ELECTRONICS,338
+ORD0339,Customer_339,23,Canada,Toronto,Home,1301.71,8,10.0,Net Banking,Delivered,2023-06-19,4,9372.31,9372.31,1041.37,June,2023,2,18-25,False,46,HOME,339
+ORD0340,Customer_340,52,UK,Paris,Home,3102.42,7,5.0,UPI,Delivered,2023-06-19,4,20631.09,20631.09,1085.85,June,2023,2,46-65,True,34,HOME,340
+ORD0341,Customer_341,58,Canada,Sydney,Toys,1100.35,7,5.0,Debit Card,Delivered,2023-06-20,5,7317.33,7317.33,385.12,June,2023,2,46-65,False,48,TOYS,341
+ORD0342,Customer_342,54,USA,Sydney,Electronics,6952.4,3,0.0,Credit Card,Delivered,2023-06-20,5,20857.2,20857.2,0.0,June,2023,2,46-65,True,26,ELECTRONICS,342
+ORD0343,Customer_343,41,UAE,Tokyo,Clothing,716.69,4,25.0,Credit Card,Cancelled,2023-06-21,2,2150.07,2150.07,716.69,June,2023,2,36-45,False,59,CLOTHING,343
+ORD0344,Customer_344,46,Australia,São Paulo,Books,5143.28,9,10.0,Cash,Delivered,2023-06-21,4,41660.57,41660.57,4628.95,June,2023,2,46-65,True,8,BOOKS,344
+ORD0345,Customer_345,63,UK,New York,Toys,9967.3,6,0.0,Net Banking,Delivered,2023-06-22,3,59803.8,59803.8,0.0,June,2023,2,46-65,True,2,TOYS,345
+ORD0346,Customer_346,48,UK,São Paulo,Toys,8158.31,5,15.0,Cash,Delivered,2023-06-22,3,34672.82,34672.82,6118.73,June,2023,2,46-65,True,17,TOYS,346
+ORD0347,Customer_347,52,Brazil,Dubai,Clothing,6190.67,3,0.0,Cash,Cancelled,2023-06-23,5,18572.01,18572.01,0.0,June,2023,2,46-65,True,31,CLOTHING,347
+ORD0348,Customer_348,50,Canada,São Paulo,Books,3131.91,9,20.0,Cash,Returned,2023-06-23,1,22549.75,22549.75,5637.44,June,2023,2,46-65,True,22,BOOKS,348
+ORD0349,Customer_349,38,France,Dubai,Beauty,6276.57,5,0.0,Credit Card,Cancelled,2023-06-24,4,31382.85,31382.85,0.0,June,2023,2,36-45,True,20,BEAUTY,349
+ORD0350,Customer_350,49,UAE,Dubai,Books,5317.71,5,20.0,Credit Card,Cancelled,2023-06-24,3,21270.84,21270.84,5317.71,June,2023,2,46-65,True,24,BOOKS,350
+ORD0351,Customer_351,40,Canada,Toronto,Beauty,4318.23,4,20.0,Cash,Delivered,2023-06-25,5,13818.34,13818.34,3454.58,June,2023,2,36-45,False,42,BEAUTY,351
+ORD0352,Customer_352,50,Brazil,Mumbai,Home,1394.03,4,20.0,Credit Card,Delivered,2023-06-25,4,4460.9,4460.9,1115.22,June,2023,2,46-65,False,54,HOME,352
+ORD0353,Customer_353,20,India,Toronto,Food,8877.38,1,15.0,Net Banking,Cancelled,2023-06-26,3,7545.77,7545.77,1331.61,June,2023,2,18-25,False,43,FOOD,353
+ORD0354,Customer_354,35,Canada,Dubai,Home,4552.87,7,0.0,Cash,Delivered,2023-06-26,4,31870.09,31870.09,0.0,June,2023,2,26-35,True,20,HOME,354
+ORD0355,Customer_355,42,Australia,Paris,Home,2026.76,9,0.0,Credit Card,Delivered,2023-06-27,5,18240.84,18240.84,0.0,June,2023,2,36-45,False,36,HOME,355
+ORD0356,Customer_356,59,UAE,Sydney,Food,3740.82,3,15.0,Debit Card,Delivered,2023-06-27,4,9539.09,9539.09,1683.37,June,2023,2,46-65,False,39,FOOD,356
+ORD0357,Customer_357,48,Brazil,Dubai,Books,4199.88,2,10.0,Cash,Delivered,2023-06-28,3,7559.78,7559.78,839.98,June,2023,2,46-65,False,49,BOOKS,357
+ORD0358,Customer_358,20,India,Toronto,Toys,8292.63,3,5.0,Cash,Delivered,2023-06-28,5,23634.0,23634.0,1243.89,June,2023,2,18-25,True,27,TOYS,358
+ORD0359,Customer_359,57,Germany,Paris,Books,7362.78,1,0.0,Net Banking,Returned,2023-06-29,5,7362.78,7362.78,0.0,June,2023,2,46-65,False,51,BOOKS,359
+ORD0360,Customer_360,63,Brazil,Toronto,Beauty,7716.12,6,5.0,UPI,Delivered,2023-06-29,5,43981.88,43981.88,2314.84,June,2023,2,46-65,True,9,BEAUTY,360
+ORD0361,Customer_361,41,Germany,São Paulo,Clothing,209.21,7,25.0,UPI,Delivered,2023-06-30,5,1098.35,1098.35,366.12,June,2023,2,36-45,False,62,CLOTHING,361
+ORD0362,Customer_362,49,UAE,London,Beauty,4219.92,2,25.0,Net Banking,Delivered,2023-06-30,4,6329.88,6329.88,2109.96,June,2023,2,46-65,False,50,BEAUTY,362
+ORD0363,Customer_363,64,UK,Tokyo,Clothing,4865.31,8,15.0,Net Banking,Cancelled,2023-07-01,4,33084.11,33084.11,5838.37,July,2023,3,46-65,True,19,CLOTHING,363
+ORD0364,Customer_364,39,Brazil,New York,Home,290.0,6,25.0,Net Banking,Delivered,2023-07-01,5,1305.0,1305.0,435.0,July,2023,3,36-45,False,58,HOME,364
+ORD0365,Customer_365,40,USA,Toronto,Food,2672.15,4,25.0,UPI,Returned,2023-07-02,4,8016.45,8016.45,2672.15,July,2023,3,36-45,False,42,FOOD,365
+ORD0366,Customer_366,19,Germany,New York,Home,7626.87,5,10.0,Net Banking,Returned,2023-07-02,5,34320.92,34320.92,3813.44,July,2023,3,18-25,True,16,HOME,366
+ORD0367,Customer_367,44,Australia,Berlin,Electronics,1457.39,8,10.0,Credit Card,Delivered,2023-07-03,4,10493.21,10493.21,1165.91,July,2023,3,36-45,False,37,ELECTRONICS,367
+ORD0368,Customer_368,59,USA,Toronto,Books,5399.57,3,0.0,Cash,Returned,2023-07-03,5,16198.71,16198.71,0.0,July,2023,3,46-65,False,32,BOOKS,368
+ORD0369,Customer_369,19,Japan,London,Clothing,2230.5,3,25.0,Cash,Pending,2023-07-04,5,5018.62,5018.62,1672.88,July,2023,3,18-25,False,54,CLOTHING,369
+ORD0370,Customer_370,43,Japan,New York,Beauty,220.0,4,15.0,Debit Card,Returned,2023-07-04,3,748.0,748.0,132.0,July,2023,3,36-45,False,63,BEAUTY,370
+ORD0371,Customer_371,34,India,Dubai,Food,2487.89,1,20.0,Debit Card,Returned,2023-07-05,5,1990.31,1990.31,497.58,July,2023,3,26-35,False,56,FOOD,371
+ORD0372,Customer_372,57,UK,Toronto,Clothing,9761.15,9,20.0,Cash,Delivered,2023-07-05,4,70280.28,70280.28,17570.07,July,2023,3,46-65,True,1,CLOTHING,372
+ORD0373,Customer_373,50,UAE,Mumbai,Beauty,8035.22,8,5.0,Credit Card,Delivered,2023-07-06,5,61067.67,61067.67,3214.09,July,2023,3,46-65,True,5,BEAUTY,373
+ORD0374,Customer_374,26,Brazil,Tokyo,Books,9599.81,8,20.0,UPI,Delivered,2023-07-06,4,61438.78,61438.78,15359.7,July,2023,3,26-35,True,3,BOOKS,374
+ORD0375,Customer_375,60,France,London,Home,4929.76,6,20.0,UPI,Delivered,2023-07-07,4,23662.85,23662.85,5915.71,July,2023,3,46-65,True,29,HOME,375
+ORD0376,Customer_376,56,Australia,New York,Books,1186.39,7,10.0,Credit Card,Pending,2023-07-07,5,7474.26,7474.26,830.47,July,2023,3,46-65,False,50,BOOKS,376
+ORD0377,Customer_377,46,Germany,London,Sports,5524.8,6,10.0,UPI,Delivered,2023-07-08,3,29833.92,29833.92,3314.88,July,2023,3,46-65,True,20,SPORTS,377
+ORD0378,Customer_378,59,UAE,Paris,Electronics,4598.34,9,25.0,Net Banking,Cancelled,2023-07-08,5,31038.8,31038.8,10346.26,July,2023,3,46-65,True,17,ELECTRONICS,378
+ORD0379,Customer_379,43,USA,Tokyo,Sports,8459.14,3,5.0,Cash,Returned,2023-07-09,4,24108.55,24108.55,1268.87,July,2023,3,36-45,True,27,SPORTS,379
+ORD0380,Customer_380,52,Japan,Dubai,Food,1071.02,3,0.0,Cash,Returned,2023-07-09,4,3213.06,3213.06,0.0,July,2023,3,46-65,False,53,FOOD,380
+ORD0381,Customer_381,42,Australia,Toronto,Clothing,4933.59,3,5.0,Credit Card,Pending,2023-07-10,4,14060.73,14060.73,740.04,July,2023,3,36-45,False,36,CLOTHING,381
+ORD0382,Customer_382,41,France,Toronto,Food,1585.48,3,5.0,UPI,Delivered,2023-07-10,4,4518.62,4518.62,237.82,July,2023,3,36-45,False,49,FOOD,382
+ORD0383,Customer_383,30,Brazil,Toronto,Home,3314.29,9,15.0,Debit Card,Delivered,2023-07-11,4,25354.32,25354.32,4474.29,July,2023,3,26-35,True,28,HOME,383
+ORD0384,Customer_384,24,India,Tokyo,Beauty,7399.84,4,25.0,Debit Card,Delivered,2023-07-11,1,22199.52,22199.52,7399.84,July,2023,3,18-25,True,29,BEAUTY,384
+ORD0385,Customer_385,53,France,Mumbai,Books,4812.58,7,15.0,UPI,Delivered,2023-07-12,3,28634.85,28634.85,5053.21,July,2023,3,46-65,True,15,BOOKS,385
+ORD0386,Customer_386,62,Australia,Berlin,Sports,3821.29,9,5.0,Debit Card,Delivered,2023-07-12,1,32672.03,32672.03,1719.58,July,2023,3,46-65,True,15,SPORTS,386
+ORD0387,Customer_387,37,France,Sydney,Toys,4005.32,7,5.0,Credit Card,Delivered,2023-07-13,4,26635.38,26635.38,1401.86,July,2023,3,36-45,True,24,TOYS,387
+ORD0388,Customer_388,18,Australia,São Paulo,Sports,4648.52,9,5.0,Credit Card,Cancelled,2023-07-13,4,39744.85,39744.85,2091.83,July,2023,3,18-25,True,9,SPORTS,388
+ORD0389,Customer_389,25,Australia,New York,Home,7871.66,3,20.0,UPI,Delivered,2023-07-14,4,18891.98,18891.98,4723.0,July,2023,3,18-25,True,35,HOME,389
+ORD0390,Customer_390,63,Canada,Mumbai,Sports,8931.64,4,15.0,Debit Card,Delivered,2023-07-14,5,30367.58,30367.58,5358.98,July,2023,3,46-65,True,19,SPORTS,390
+ORD0391,Customer_391,33,Germany,Dubai,Home,9557.81,8,5.0,Credit Card,Cancelled,2023-07-15,4,72639.36,72639.36,3823.12,July,2023,3,26-35,True,1,HOME,391
+ORD0392,Customer_392,31,Japan,New York,Toys,7890.34,6,10.0,Credit Card,Delivered,2023-07-15,5,42607.84,42607.84,4734.2,July,2023,3,26-35,True,13,TOYS,392
+ORD0393,Customer_393,29,Canada,Toronto,Food,3222.53,5,25.0,Net Banking,Delivered,2023-07-16,5,12084.49,12084.49,4028.16,July,2023,3,26-35,False,31,FOOD,393
+ORD0394,Customer_394,40,Brazil,London,Books,6912.53,4,0.0,Net Banking,Cancelled,2023-07-16,5,27650.12,27650.12,0.0,July,2023,3,36-45,True,16,BOOKS,394
+ORD0395,Customer_395,32,Canada,Dubai,Clothing,4432.27,8,10.0,Credit Card,Delivered,2023-07-17,4,31912.34,31912.34,3545.82,July,2023,3,26-35,True,21,CLOTHING,395
+ORD0396,Customer_396,45,UK,New York,Beauty,2621.24,1,25.0,UPI,Cancelled,2023-07-17,5,1965.93,1965.93,655.31,July,2023,3,36-45,False,61,BEAUTY,396
+ORD0397,Customer_397,51,UK,Toronto,Clothing,8424.63,9,20.0,Cash,Delivered,2023-07-18,3,60657.34,60657.34,15164.33,July,2023,3,46-65,True,3,CLOTHING,397
+ORD0398,Customer_398,42,Japan,New York,Food,480.42,1,20.0,Cash,Returned,2023-07-18,4,384.34,384.34,96.08,July,2023,3,36-45,False,60,FOOD,398
+ORD0399,Customer_399,49,France,London,Beauty,9027.44,8,0.0,Credit Card,Delivered,2023-07-19,1,72219.52,72219.52,0.0,July,2023,3,46-65,True,1,BEAUTY,399
+ORD0400,Customer_400,40,Germany,Toronto,Sports,4668.63,4,0.0,Credit Card,Delivered,2023-07-19,4,18674.52,18674.52,0.0,July,2023,3,36-45,True,37,SPORTS,400
+ORD0401,Customer_401,39,Japan,Berlin,Toys,6408.29,9,0.0,Credit Card,Delivered,2023-07-20,5,57674.61,57674.61,0.0,July,2023,3,36-45,True,4,TOYS,401
+ORD0402,Customer_402,42,Australia,Mumbai,Toys,6627.6,5,25.0,UPI,Returned,2023-07-20,5,24853.5,24853.5,8284.5,July,2023,3,36-45,True,25,TOYS,402
+ORD0403,Customer_403,39,USA,Paris,Electronics,8961.67,3,20.0,Net Banking,Delivered,2023-07-21,2,21508.01,21508.01,5377.0,July,2023,3,36-45,True,24,ELECTRONICS,403
+ORD0404,Customer_404,39,Germany,São Paulo,Food,6403.03,9,20.0,Credit Card,Delivered,2023-07-21,5,46101.82,46101.82,11525.45,July,2023,3,36-45,True,10,FOOD,404
+ORD0405,Customer_405,59,Germany,Tokyo,Food,6177.94,9,20.0,Credit Card,Pending,2023-07-22,3,44481.17,44481.17,11120.29,July,2023,3,46-65,True,11,FOOD,405
+ORD0406,Customer_406,23,Australia,São Paulo,Books,759.86,4,10.0,Debit Card,Cancelled,2023-07-22,4,2735.5,2735.5,303.94,July,2023,3,18-25,False,64,BOOKS,406
+ORD0407,Customer_407,32,Australia,Dubai,Clothing,5232.24,4,20.0,UPI,Delivered,2023-07-23,3,16743.17,16743.17,4185.79,July,2023,3,26-35,False,34,CLOTHING,407
+ORD0408,Customer_408,60,India,São Paulo,Food,1586.67,8,10.0,Credit Card,Cancelled,2023-07-23,4,11424.02,11424.02,1269.34,July,2023,3,46-65,False,35,FOOD,408
+ORD0409,Customer_409,54,Japan,Toronto,Food,7400.59,2,0.0,Debit Card,Delivered,2023-07-24,4,14801.18,14801.18,0.0,July,2023,3,46-65,False,27,FOOD,409
+ORD0410,Customer_410,50,Australia,Berlin,Sports,5171.0,9,0.0,Cash,Delivered,2023-07-24,4,46539.0,46539.0,0.0,July,2023,3,46-65,True,4,SPORTS,410
+ORD0411,Customer_411,25,UK,Paris,Sports,6834.26,6,25.0,Credit Card,Delivered,2023-07-25,3,30754.17,30754.17,10251.39,July,2023,3,18-25,True,17,SPORTS,411
+ORD0412,Customer_412,61,Brazil,Mumbai,Beauty,512.56,9,0.0,Credit Card,Pending,2023-07-25,3,4613.04,4613.04,0.0,July,2023,3,46-65,False,52,BEAUTY,412
+ORD0413,Customer_413,61,USA,Mumbai,Home,939.44,8,25.0,Debit Card,Pending,2023-07-26,4,5636.64,5636.64,1878.88,July,2023,3,46-65,False,52,HOME,413
+ORD0414,Customer_414,22,Japan,London,Home,7191.6,7,5.0,UPI,Delivered,2023-07-26,5,47824.14,47824.14,2517.06,July,2023,3,18-25,True,9,HOME,414
+ORD0415,Customer_415,56,UAE,Tokyo,Electronics,813.63,1,5.0,Credit Card,Delivered,2023-07-27,5,772.95,772.95,40.68,July,2023,3,46-65,False,57,ELECTRONICS,415
+ORD0416,Customer_416,21,UK,New York,Home,805.44,3,15.0,Cash,Delivered,2023-07-27,2,2053.87,2053.87,362.45,July,2023,3,18-25,False,57,HOME,416
+ORD0417,Customer_417,23,France,Berlin,Books,219.87,2,25.0,Credit Card,Pending,2023-07-28,4,329.8,329.8,109.94,July,2023,3,18-25,False,71,BOOKS,417
+ORD0418,Customer_418,62,Australia,New York,Electronics,9569.36,5,15.0,Cash,Pending,2023-07-28,2,40669.78,40669.78,7177.02,July,2023,3,46-65,True,12,ELECTRONICS,418
+ORD0419,Customer_419,49,UAE,Paris,Beauty,7401.33,5,15.0,Net Banking,Delivered,2023-07-29,1,31455.65,31455.65,5551.0,July,2023,3,46-65,True,18,BEAUTY,419
+ORD0420,Customer_420,47,Australia,São Paulo,Sports,3597.19,5,5.0,Net Banking,Returned,2023-07-29,5,17086.65,17086.65,899.3,July,2023,3,46-65,False,42,SPORTS,420
+ORD0421,Customer_421,64,Germany,Mumbai,Home,3035.7,4,25.0,Cash,Cancelled,2023-07-30,4,9107.1,9107.1,3035.7,July,2023,3,46-65,False,48,HOME,421
+ORD0422,Customer_422,52,UK,Paris,Clothing,3562.06,5,5.0,UPI,Delivered,2023-07-30,3,16919.78,16919.78,890.52,July,2023,3,46-65,False,33,CLOTHING,422
+ORD0423,Customer_423,57,Germany,São Paulo,Sports,7769.07,3,15.0,Credit Card,Delivered,2023-07-31,3,19811.13,19811.13,3496.08,July,2023,3,46-65,True,32,SPORTS,423
+ORD0424,Customer_424,33,India,Mumbai,Toys,6647.57,1,25.0,Credit Card,Delivered,2023-07-31,1,4985.68,4985.68,1661.89,July,2023,3,26-35,False,57,TOYS,424
+ORD0425,Customer_425,30,Germany,São Paulo,Books,1933.44,5,15.0,Net Banking,Cancelled,2023-08-01,5,8217.12,8217.12,1450.08,August,2023,3,26-35,False,45,BOOKS,425
+ORD0426,Customer_426,59,India,Tokyo,Sports,1823.68,9,20.0,Cash,Cancelled,2023-08-01,4,13130.5,13130.5,3282.62,August,2023,3,46-65,False,46,SPORTS,426
+ORD0427,Customer_427,47,India,Berlin,Books,1074.12,9,0.0,Credit Card,Delivered,2023-08-02,3,9667.08,9667.08,0.0,August,2023,3,46-65,False,40,BOOKS,427
+ORD0428,Customer_428,36,UAE,Dubai,Books,6637.0,4,25.0,Credit Card,Pending,2023-08-02,3,19911.0,19911.0,6637.0,August,2023,3,36-45,True,27,BOOKS,428
+ORD0429,Customer_429,34,Australia,Paris,Books,7667.29,3,15.0,UPI,Delivered,2023-08-03,5,19551.59,19551.59,3450.28,August,2023,3,26-35,True,29,BOOKS,429
+ORD0430,Customer_430,36,France,Paris,Beauty,2723.96,1,20.0,Debit Card,Delivered,2023-08-03,5,2179.17,2179.17,544.79,August,2023,3,36-45,False,59,BEAUTY,430
+ORD0431,Customer_431,45,Germany,Sydney,Books,307.36,2,10.0,Net Banking,Cancelled,2023-08-04,4,553.25,553.25,61.47,August,2023,3,36-45,False,70,BOOKS,431
+ORD0432,Customer_432,43,UK,Toronto,Books,913.5,8,5.0,Net Banking,Cancelled,2023-08-04,2,6942.6,6942.6,365.4,August,2023,3,36-45,False,53,BOOKS,432
+ORD0433,Customer_433,54,India,Tokyo,Toys,9681.81,1,15.0,Debit Card,Delivered,2023-08-05,1,8229.54,8229.54,1452.27,August,2023,3,46-65,False,44,TOYS,433
+ORD0434,Customer_434,43,Australia,Tokyo,Clothing,3024.9,8,25.0,Credit Card,Delivered,2023-08-05,4,18149.4,18149.4,6049.8,August,2023,3,36-45,False,32,CLOTHING,434
+ORD0435,Customer_435,40,USA,New York,Electronics,7715.31,7,5.0,UPI,Delivered,2023-08-06,4,51306.81,51306.81,2700.36,August,2023,3,36-45,True,6,ELECTRONICS,435
+ORD0436,Customer_436,26,Japan,São Paulo,Food,6284.17,8,5.0,UPI,Delivered,2023-08-06,1,47759.69,47759.69,2513.67,August,2023,3,26-35,True,7,FOOD,436
+ORD0437,Customer_437,29,UAE,Toronto,Toys,3881.2,6,5.0,Net Banking,Delivered,2023-08-07,4,22122.84,22122.84,1164.36,August,2023,3,26-35,True,30,TOYS,437
+ORD0438,Customer_438,18,France,Berlin,Electronics,2136.3,9,10.0,UPI,Delivered,2023-08-07,1,17304.03,17304.03,1922.67,August,2023,3,18-25,False,27,ELECTRONICS,438
+ORD0439,Customer_439,18,Canada,Berlin,Books,1301.73,3,0.0,Debit Card,Cancelled,2023-08-08,4,3905.19,3905.19,0.0,August,2023,3,18-25,False,62,BOOKS,439
+ORD0440,Customer_440,64,UAE,Tokyo,Clothing,6188.63,4,15.0,Credit Card,Delivered,2023-08-08,4,21041.34,21041.34,3713.18,August,2023,3,46-65,True,28,CLOTHING,440
+ORD0441,Customer_441,51,USA,Berlin,Sports,7768.87,6,0.0,Debit Card,Cancelled,2023-08-09,1,46613.22,46613.22,0.0,August,2023,3,46-65,True,3,SPORTS,441
+ORD0442,Customer_442,49,Japan,Sydney,Clothing,6474.65,8,0.0,Cash,Returned,2023-08-09,4,51797.2,51797.2,0.0,August,2023,3,46-65,True,7,CLOTHING,442
+ORD0443,Customer_443,42,USA,Paris,Toys,5349.99,5,0.0,Net Banking,Delivered,2023-08-10,4,26749.95,26749.95,0.0,August,2023,3,36-45,True,23,TOYS,443
+ORD0444,Customer_444,57,Germany,London,Books,515.32,3,5.0,UPI,Delivered,2023-08-10,4,1468.66,1468.66,77.3,August,2023,3,46-65,False,67,BOOKS,444
+ORD0445,Customer_445,62,India,Dubai,Clothing,9688.04,6,20.0,Cash,Cancelled,2023-08-11,4,46502.59,46502.59,11625.65,August,2023,3,46-65,True,11,CLOTHING,445
+ORD0446,Customer_446,18,France,New York,Home,8007.27,4,5.0,UPI,Delivered,2023-08-11,3,30427.63,30427.63,1601.45,August,2023,3,18-25,True,23,HOME,446
+ORD0447,Customer_447,33,Brazil,São Paulo,Clothing,2998.94,9,5.0,Credit Card,Cancelled,2023-08-12,5,25640.94,25640.94,1349.52,August,2023,3,26-35,True,24,CLOTHING,447
+ORD0448,Customer_448,56,India,Dubai,Books,9801.71,3,25.0,Credit Card,Returned,2023-08-12,3,22053.85,22053.85,7351.28,August,2023,3,46-65,True,23,BOOKS,448
+ORD0449,Customer_449,22,Brazil,São Paulo,Beauty,6058.63,4,25.0,Credit Card,Returned,2023-08-13,5,18175.89,18175.89,6058.63,August,2023,3,18-25,False,35,BEAUTY,449
+ORD0450,Customer_450,39,Japan,Mumbai,Home,5865.98,7,0.0,UPI,Pending,2023-08-13,4,41061.86,41061.86,0.0,August,2023,3,36-45,True,15,HOME,450
+ORD0451,Customer_451,46,Australia,Dubai,Clothing,7505.92,7,5.0,Cash,Delivered,2023-08-14,4,49914.37,49914.37,2627.07,August,2023,3,46-65,True,9,CLOTHING,451
+ORD0452,Customer_452,20,Canada,London,Food,8136.52,4,0.0,Credit Card,Delivered,2023-08-14,2,32546.08,32546.08,0.0,August,2023,3,18-25,True,17,FOOD,452
+ORD0453,Customer_453,29,UK,Tokyo,Food,6599.14,6,25.0,Cash,Delivered,2023-08-15,4,29696.13,29696.13,9898.71,August,2023,3,26-35,True,18,FOOD,453
+ORD0454,Customer_454,43,India,Sydney,Clothing,1368.15,3,20.0,UPI,Delivered,2023-08-15,4,3283.56,3283.56,820.89,August,2023,3,36-45,False,57,CLOTHING,454
+ORD0455,Customer_455,33,France,Paris,Beauty,3448.85,6,15.0,Cash,Delivered,2023-08-16,5,17589.13,17589.13,3103.96,August,2023,3,26-35,False,36,BEAUTY,455
+ORD0456,Customer_456,54,USA,Paris,Sports,9288.03,2,0.0,UPI,Delivered,2023-08-16,3,18576.06,18576.06,0.0,August,2023,3,46-65,True,38,SPORTS,456
+ORD0457,Customer_457,39,France,Sydney,Books,2323.69,8,20.0,UPI,Pending,2023-08-17,3,14871.62,14871.62,3717.9,August,2023,3,36-45,False,33,BOOKS,457
+ORD0458,Customer_458,46,Japan,Toronto,Food,3784.45,2,15.0,Net Banking,Delivered,2023-08-17,5,6433.56,6433.56,1135.34,August,2023,3,46-65,False,47,FOOD,458
+ORD0459,Customer_459,31,Brazil,Mumbai,Sports,4377.56,7,10.0,UPI,Delivered,2023-08-18,5,27578.63,27578.63,3064.29,August,2023,3,26-35,True,22,SPORTS,459
+ORD0460,Customer_460,45,USA,São Paulo,Clothing,4450.11,9,0.0,UPI,Delivered,2023-08-18,2,40050.99,40050.99,0.0,August,2023,3,36-45,True,14,CLOTHING,460
+ORD0461,Customer_461,22,UK,London,Toys,6168.1,1,0.0,Debit Card,Delivered,2023-08-19,4,6168.1,6168.1,0.0,August,2023,3,18-25,False,52,TOYS,461
+ORD0462,Customer_462,64,UK,Berlin,Sports,9436.45,8,10.0,Credit Card,Delivered,2023-08-19,4,67942.44,67942.44,7549.16,August,2023,3,46-65,True,1,SPORTS,462
+ORD0463,Customer_463,47,India,Dubai,Home,2482.86,7,10.0,Net Banking,Delivered,2023-08-20,5,15642.02,15642.02,1738.0,August,2023,3,46-65,False,37,HOME,463
+ORD0464,Customer_464,63,Japan,Mumbai,Electronics,1302.86,6,0.0,Net Banking,Delivered,2023-08-20,2,7817.16,7817.16,0.0,August,2023,3,46-65,False,40,ELECTRONICS,464
+ORD0465,Customer_465,22,Australia,Dubai,Food,2054.96,6,10.0,Net Banking,Delivered,2023-08-21,3,11096.78,11096.78,1232.98,August,2023,3,18-25,False,37,FOOD,465
+ORD0466,Customer_466,29,Japan,London,Clothing,8880.56,6,5.0,Debit Card,Returned,2023-08-21,5,50619.19,50619.19,2664.17,August,2023,3,26-35,True,8,CLOTHING,466
+ORD0467,Customer_467,33,Brazil,New York,Toys,6493.53,9,15.0,UPI,Returned,2023-08-22,2,49675.5,49675.5,8766.27,August,2023,3,26-35,True,10,TOYS,467
+ORD0468,Customer_468,43,France,New York,Books,2930.48,2,15.0,Credit Card,Cancelled,2023-08-22,4,4981.82,4981.82,879.14,August,2023,3,36-45,False,59,BOOKS,468
+ORD0469,Customer_469,43,UK,Mumbai,Toys,8177.87,1,15.0,Cash,Delivered,2023-08-23,4,6951.19,6951.19,1226.68,August,2023,3,36-45,False,49,TOYS,469
+ORD0470,Customer_470,38,France,Tokyo,Beauty,8627.56,6,5.0,UPI,Returned,2023-08-23,4,49177.09,49177.09,2588.27,August,2023,3,36-45,True,7,BEAUTY,470
+ORD0471,Customer_471,56,France,London,Home,8480.49,8,10.0,Debit Card,Returned,2023-08-24,4,61059.53,61059.53,6784.39,August,2023,3,46-65,True,4,HOME,471
+ORD0472,Customer_472,53,France,London,Clothing,9197.37,3,20.0,UPI,Delivered,2023-08-24,4,22073.69,22073.69,5518.42,August,2023,3,46-65,True,26,CLOTHING,472
+ORD0473,Customer_473,50,UK,Sydney,Books,2597.19,1,10.0,UPI,Cancelled,2023-08-25,3,2337.47,2337.47,259.72,August,2023,3,46-65,False,65,BOOKS,473
+ORD0474,Customer_474,47,UAE,Tokyo,Beauty,7574.92,9,0.0,Debit Card,Delivered,2023-08-25,4,68174.28,68174.28,0.0,August,2023,3,46-65,True,2,BEAUTY,474
+ORD0475,Customer_475,54,Germany,São Paulo,Beauty,4659.34,1,25.0,Net Banking,Returned,2023-08-26,5,3494.5,3494.5,1164.84,August,2023,3,46-65,False,56,BEAUTY,475
+ORD0476,Customer_476,40,Brazil,São Paulo,Clothing,8435.79,3,15.0,Net Banking,Pending,2023-08-26,5,21511.26,21511.26,3796.11,August,2023,3,36-45,True,27,CLOTHING,476
+ORD0477,Customer_477,27,UAE,Berlin,Home,7312.06,8,10.0,Credit Card,Delivered,2023-08-27,3,52646.83,52646.83,5849.65,August,2023,3,26-35,True,5,HOME,477
+ORD0478,Customer_478,22,Brazil,Paris,Sports,7786.83,3,20.0,Credit Card,Returned,2023-08-27,3,18688.39,18688.39,4672.1,August,2023,3,18-25,True,36,SPORTS,478
+ORD0479,Customer_479,53,USA,New York,Sports,6596.0,4,0.0,Net Banking,Delivered,2023-08-28,3,26384.0,26384.0,0.0,August,2023,3,46-65,True,24,SPORTS,479
+ORD0480,Customer_480,51,Japan,São Paulo,Beauty,1856.54,8,5.0,Cash,Pending,2023-08-28,4,14109.7,14109.7,742.62,August,2023,3,46-65,False,41,BEAUTY,480
+ORD0481,Customer_481,48,Japan,Tokyo,Sports,5495.77,1,5.0,UPI,Delivered,2023-08-29,4,5220.98,5220.98,274.79,August,2023,3,46-65,False,56,SPORTS,481
+ORD0482,Customer_482,27,Canada,London,Electronics,9848.23,6,20.0,Cash,Returned,2023-08-29,5,47271.5,47271.5,11817.88,August,2023,3,26-35,True,9,ELECTRONICS,482
+ORD0483,Customer_483,36,Japan,São Paulo,Beauty,9380.14,1,0.0,UPI,Delivered,2023-08-30,2,9380.14,9380.14,0.0,August,2023,3,36-45,False,46,BEAUTY,483
+ORD0484,Customer_484,49,UK,London,Beauty,527.42,1,15.0,Net Banking,Delivered,2023-08-30,1,448.31,448.31,79.11,August,2023,3,46-65,False,64,BEAUTY,484
+ORD0485,Customer_485,18,Australia,São Paulo,Books,1731.67,8,10.0,Credit Card,Delivered,2023-08-31,4,12468.02,12468.02,1385.34,August,2023,3,18-25,False,35,BOOKS,485
+ORD0486,Customer_486,22,India,New York,Sports,1404.11,4,0.0,Credit Card,Pending,2023-08-31,5,5616.44,5616.44,0.0,August,2023,3,18-25,False,54,SPORTS,486
+ORD0487,Customer_487,62,Canada,Dubai,Home,7287.2,1,5.0,Cash,Returned,2023-09-01,3,6922.84,6922.84,364.36,September,2023,3,46-65,False,49,HOME,487
+ORD0488,Customer_488,21,India,São Paulo,Beauty,8196.07,7,20.0,Credit Card,Returned,2023-09-01,5,45897.99,45897.99,11474.5,September,2023,3,18-25,True,8,BEAUTY,488
+ORD0489,Customer_489,33,Brazil,Tokyo,Toys,2213.76,5,20.0,Net Banking,Pending,2023-09-02,3,8855.04,8855.04,2213.76,September,2023,3,26-35,False,41,TOYS,489
+ORD0490,Customer_490,41,India,São Paulo,Home,5107.94,5,10.0,Cash,Delivered,2023-09-02,5,22985.73,22985.73,2553.97,September,2023,3,36-45,True,30,HOME,490
+ORD0491,Customer_491,33,India,Paris,Electronics,8422.96,1,20.0,UPI,Delivered,2023-09-03,5,6738.37,6738.37,1684.59,September,2023,3,26-35,False,43,ELECTRONICS,491
+ORD0492,Customer_492,19,Canada,New York,Books,7354.74,6,20.0,Credit Card,Delivered,2023-09-03,4,35302.75,35302.75,8825.69,September,2023,3,18-25,True,10,BOOKS,492
+ORD0493,Customer_493,45,USA,Tokyo,Clothing,5468.15,9,0.0,Debit Card,Delivered,2023-09-04,3,49213.35,49213.35,0.0,September,2023,3,36-45,True,10,CLOTHING,493
+ORD0494,Customer_494,49,France,Sydney,Home,5944.44,9,15.0,Credit Card,Delivered,2023-09-04,4,45474.97,45474.97,8024.99,September,2023,3,46-65,True,12,HOME,494
+ORD0495,Customer_495,44,Japan,Tokyo,Beauty,5132.77,8,10.0,UPI,Delivered,2023-09-05,3,36955.94,36955.94,4106.22,September,2023,3,36-45,True,13,BEAUTY,495
+ORD0496,Customer_496,37,Japan,Paris,Electronics,3045.73,5,0.0,Cash,Delivered,2023-09-05,5,15228.65,15228.65,0.0,September,2023,3,36-45,False,30,ELECTRONICS,496
+ORD0497,Customer_497,41,UK,Dubai,Food,5693.72,1,15.0,UPI,Delivered,2023-09-06,5,4839.66,4839.66,854.06,September,2023,3,36-45,False,48,FOOD,497
+ORD0498,Customer_498,29,Canada,New York,Electronics,6919.96,9,0.0,Debit Card,Delivered,2023-09-06,5,62279.64,62279.64,0.0,September,2023,3,26-35,True,4,ELECTRONICS,498
+ORD0499,Customer_499,52,UK,Sydney,Electronics,8745.9,1,25.0,Net Banking,Delivered,2023-09-07,5,6559.42,6559.42,2186.48,September,2023,3,46-65,False,44,ELECTRONICS,499
+ORD0500,Customer_500,50,Australia,Paris,Books,6399.28,8,0.0,Credit Card,Pending,2023-09-07,4,51194.24,51194.24,0.0,September,2023,3,46-65,True,5,BOOKS,500
